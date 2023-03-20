@@ -1,0 +1,121 @@
+
+.testimonial-wrap p {
+    line-height: 1.8;
+    font-size: 15px
+}
+
+.smart-tes-author {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+.smart-tes-content .rating {
+    color: #f1c734;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.smart-center {
+    text-align: center
+}
+
+.smart-textimonials.smart-light {
+    color: #fff
+}
+
+.smart-textimonials .item {
+    padding: 0 15px
+}
+
+.smart-textimonials .item-box {
+    background: #fff;
+    border-radius: 8px;
+    padding: 2rem 1.2rem;
+    padding-left: 150px;
+    text-align: left;
+    position: relative;
+    box-shadow: 0px 10px 15px 0px rgba(26, 46, 85, 0.05);
+}
+
+.st-author-thumb {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+}
+
+.smart-tes-content p {
+    font-size: 15px
+}
+
+.st-author-thumb .quotes {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    right: -5px;
+    bottom: -8px;
+    color: #fff
+}
+
+.st-author-thumb img {
+    border-radius: 50%
+}
+
+.smart-light .st-author-thumb,
+.st-author-thumb.light {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.3);
+    -webkit-box-shadow: 0 0 0 5px rgba(255, 255, 255, 0.3);
+    float: left
+}
+
+.st-author-info {
+    display: inline-block;
+    margin-left: 0;
+    margin-top: 10px;
+}
+
+.smart-textimonials.smart-light .st-author-title {
+    color: #fff
+}
+
+.st-author-info .st-author-title {
+    margin: 0;
+    font-size: 20px;
+    line-height: 1;
+    margin-bottom: 6px;
+}
+
+.st-author-info .st-author-subtitle {
+    font-size: 15px;
+}
+
+.st-author-box {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center
+}
+
+.smart-center .st-author-box {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+@media (max-width: 575px) {
+    .smart-textimonials .item-box {
+        padding: 40px;
+    }
+    .smart-tes-author {
+        position: static;
+        top: 0px;
+        left: 0px;
+    }
+}

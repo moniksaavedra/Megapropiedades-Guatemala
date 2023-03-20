@@ -1,0 +1,31 @@
+.blog-wrap-grid {
+    width: 100%;
+    background: #fff;
+    border-radius: 6px;
+    margin-top: 25px;
+    position: relative;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1)
+}
+
+.blog-thumb {
+    padding: 10px;
+    border-radius: 4px;
+    overflow: hidden
+}
+
+.blog-thumb img {
+    border-radius: 4px
+}
+
+.blog-info {
+    padding: 10px 20px
+}
+
+.blog-info i {
+    margin-right: 7px
+}
+
+.blog-body {
+    padding: 5px 20px 30px
+}

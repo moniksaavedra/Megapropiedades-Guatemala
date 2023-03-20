@@ -1,0 +1,208 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QPayPro Card - WooCommerce Payment Gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-18 04:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/wp-filters.php:13
+msgid "Configure"
+msgstr ""
+
+#: admin/helpers/class-qpaypro-helper.php:77
+msgid "Successful payment. "
+msgstr ""
+
+#: admin/helpers/class-qpaypro-helper.php:78
+msgid "Successful payment."
+msgstr ""
+
+#: admin/helpers/class-qpaypro-helper.php:82
+#: admin/helpers/class-qpaypro-helper.php:83
+msgid "Payment failed. "
+msgstr ""
+
+#: admin/helpers/class-qpaypro-helper.php:99
+msgid ""
+"The connection with the payment gateway service could not be completed. "
+"Please try again later."
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:9
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:198
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:199
+msgid "QPayPro"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:10
+msgid "Allows you to receive online payments through QPayPro. "
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:46
+msgid ""
+"You are using the <strong>QPayPro for WooCommerce</strong> plugin developed "
+"by <a href=\"https://digitallabs.agency\" target=\"_blank\">Digital Labs</a>."
+" If you need assistance configuring the plugin, help with your eCommerce "
+"site or just want to say hi, feel free to contact us <a href=\"https:"
+"//digitallabs.agency/contacto\" target=\"_blank\">here</a>. We will be happy "
+"to work with you."
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:97
+msgid "Credit Card Holder's name"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:102
+msgid "Credit Card Number"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:109
+msgid "Expiration date"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:111
+msgid "Month"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:126
+msgid "Year"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:136
+msgid "3 or 4 digits"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:190
+msgid "Habilitar/Deshabilitar"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:192
+msgid "Activar pasarela de pago"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:196
+msgid "Titulo"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:203
+msgid "Public Key"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:205
+msgid "QPayPro Public Key."
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:211
+msgid "Private Key"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:213
+msgid "QPayPro Private Key."
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:219
+msgid "API Secret"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:221
+msgid "QPayPro API Secret."
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:226
+msgid "Merchant ID"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:228
+msgid "QPayPro Merchant ID."
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:233
+msgid "Mode"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:235
+msgid "Modo QPayPro Live o Sandbox."
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:237
+msgid "Sandbox"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:238
+msgid "Live"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:242
+msgid "Visa Cuotas"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:244
+msgid "QPayPro Visacuotas."
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:247
+msgid "Yes"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:248
+msgid "No"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:254
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:255
+msgid "QPayPro Payment Gateway"
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:294
+msgid "Credit Card holder name is required."
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:297
+msgid "Credit card number is required."
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:300
+msgid "Credit card expiry month is required."
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:303
+msgid "Credit card expiry year is required."
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:306
+msgid "Credit card CVV is required."
+msgstr ""
+
+#: admin/helpers/wp-qpaypro-woocommerce-admin.php:381
+msgid "QPayPro payment completed."
+msgstr ""
+
+#. Name of the plugin
+msgid "QPayPro - WooCommerce Payment Gateway"
+msgstr ""
+
+#. Description of the plugin
+msgid "WooCommerce custom payment gateway integration with QPayPro."
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://coders.store.gt/producto/wordpress-plugins/wp-qpaypro-woocommerce/"
+msgstr ""
+
+#. Author of the plugin
+msgid "XicoOfficial, gtcoders, digitallabs"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://edwinxico.com"
+msgstr ""

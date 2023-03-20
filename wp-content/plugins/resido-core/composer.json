@@ -1,0 +1,14 @@
+{
+    "name": "resido/resido-core",
+    "description": "A plugin for resido WordPress Theme",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Resido\\Helper\\": "includes/"
+        },
+        "files": [ "includes/functions.php" ]
+    }
+}

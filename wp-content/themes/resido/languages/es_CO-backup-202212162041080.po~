@@ -1,0 +1,1698 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Resido\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-13 16:16+0600\n"
+"PO-Revision-Date: 2022-12-16 20:40+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español de Colombia\n"
+"Language: es_CO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1"
+
+#: ../404.php:23
+msgid "404"
+msgstr ""
+
+#: ../404.php:24
+msgid "Page Not Found"
+msgstr ""
+
+#: ../404.php:26
+msgid ""
+"Maecenas quis consequat libero, a feugiat eros. Nunc ut lacinia tortor morbi "
+"ultricies laoreet ullamcorper phasellus semper"
+msgstr ""
+
+#: ../404.php:27
+msgid "Back To Home"
+msgstr "Ir a página de inicio"
+
+#: ../assets/js/bootstrap.min.js:6
+msgid "modal"
+msgstr ""
+
+#: ../assets/js/bootstrap.min.js:6
+msgid "toast"
+msgstr ""
+
+#: ../comments.php:38
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:87
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:88
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:89
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:90
+msgid "Submit Now"
+msgstr ""
+
+#: ../comments.php:97
+msgid ""
+"You must be <a href=\"javascript:void(0)\" data-bs-toggle=\"modal\" data-bs-"
+"target=\"#login\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:102
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"%4$s\">Log "
+"out?</a>"
+msgstr ""
+
+#: ../comments.php:109
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../components/header/header-style-1.php:91
+#: ../components/header/header-style-1.php:95
+#: ../components/header/header-style-2.php:118
+msgid "Add Property"
+msgstr "Agregar Propiedad"
+
+#: ../components/header/header-style-1.php:104
+msgid "Sign In"
+msgstr "Ingresar"
+
+#: ../components/header/header-style-2.php:107
+msgid "Signin"
+msgstr "Ingresar"
+
+#: ../components/header/header-style-2.php:114
+#: ../essential-wp-real-estate/dashboard/dashboard.php:56
+msgid "Add Listing"
+msgstr "Agregar Propiedad"
+
+#: ../essential-wp-real-estate/archive-cl_cpt.php:82
+#: ../essential-wp-real-estate/single/blocks/maps.php:12
+msgid "You are within {{radius_value}} meters from this point"
+msgstr ""
+
+#: ../essential-wp-real-estate/common/listing_footer.php:17
+msgid "Compare Listings"
+msgstr ""
+
+#: ../essential-wp-real-estate/common/listing_footer.php:40
+msgid "Compare"
+msgstr ""
+
+#: ../essential-wp-real-estate/common/nothing_found.php:5
+#: ../framework/classes/resido-actions.php:153
+msgid "Nothing Found"
+msgstr ""
+
+#: ../essential-wp-real-estate/common/nothing_found.php:6
+msgid ""
+"Uh oh, we can't seem to find the listing you're looking for. Try going back "
+"to previous page or contact us for more information"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/add/featured_image.php:6
+#: ../essential-wp-real-estate/dashboard/edit/featured_image.php:11
+#: ../essential-wp-real-estate/dashboard/profile.php:73
+msgid " Select Image"
+msgstr "Seleccionar Imagen"
+
+#: ../essential-wp-real-estate/dashboard/add/group.php:23
+#: ../essential-wp-real-estate/dashboard/edit/group.php:48
+msgid "Add New"
+msgstr "Afrefar Nuevo"
+
+#: ../essential-wp-real-estate/dashboard/add/image.php:16
+#: ../essential-wp-real-estate/dashboard/add/image_advanced.php:13
+#: ../essential-wp-real-estate/dashboard/edit/image.php:32
+#: ../essential-wp-real-estate/dashboard/edit/image_advanced.php:29
+msgid "Upload Images"
+msgstr "Cargar Imagenes"
+
+#: ../essential-wp-real-estate/dashboard/add/image.php:17
+#: ../essential-wp-real-estate/dashboard/add/image_advanced.php:14
+#: ../essential-wp-real-estate/dashboard/edit/image.php:33
+#: ../essential-wp-real-estate/dashboard/edit/image_advanced.php:30
+msgid "Clear"
+msgstr "Borrar"
+
+#: ../essential-wp-real-estate/dashboard/agency.php:24
+msgid "Agency List"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/agency.php:82
+#: ../essential-wp-real-estate/dashboard/agent.php:86
+msgid "View"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/agency.php:91
+msgid "No agency found"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/agency.php:98
+msgid "Add Agency"
+msgstr "Agregar Agencia"
+
+#: ../essential-wp-real-estate/dashboard/agency.php:102
+#: ../framework/redux/redux-config.php:451
+msgid "Title"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/agency.php:106
+#: ../essential-wp-real-estate/dashboard/profile.php:122
+msgid "Address"
+msgstr "DIrección"
+
+#: ../essential-wp-real-estate/dashboard/agency.php:110
+msgid "Cell"
+msgstr "Celular"
+
+#: ../essential-wp-real-estate/dashboard/agency.php:114
+#: ../framework/redux/redux-config.php:350
+msgid "Email"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/agency.php:118
+msgid "Content"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/agency.php:122
+msgid "Social Information"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/agency.php:126
+msgid "Agency Information"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/agency.php:130
+msgid "Featured Image"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/agency.php:138
+#: ../essential-wp-real-estate/dashboard/agent.php:143
+#: ../essential-wp-real-estate/dashboard/editagency.php:85
+#: ../essential-wp-real-estate/dashboard/editagent.php:84
+msgid "Drop files here to upload"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/agent.php:27
+msgid "Agent list"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/agent.php:95
+msgid "No agent found"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/agent.php:149
+msgid "Add agent"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/changepassword.php:14
+msgid "Password didn't match"
+msgstr "Contraseña no coincide"
+
+#: ../essential-wp-real-estate/dashboard/changepassword.php:24
+msgid "Profile Password Successfully Updated."
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/changepassword.php:35
+msgid "Change Your Password"
+msgstr "Cambie Su Contraseña"
+
+#: ../essential-wp-real-estate/dashboard/changepassword.php:40
+msgid "Old Password"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/changepassword.php:45
+msgid "New Password"
+msgstr "Nueva Contraseña"
+
+#: ../essential-wp-real-estate/dashboard/changepassword.php:50
+msgid "Confirm password"
+msgstr "Confirmar Contraseña"
+
+#: ../essential-wp-real-estate/dashboard/changepassword.php:62
+#: ../essential-wp-real-estate/dashboard/profile.php:189
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: ../essential-wp-real-estate/dashboard/dashboard.php:51
+msgid "Dashboard"
+msgstr "Panel de Control"
+
+#: ../essential-wp-real-estate/dashboard/dashboard.php:52
+msgid "My Profile"
+msgstr "Mi Perfil"
+
+#: ../essential-wp-real-estate/dashboard/dashboard.php:53
+msgid " Messages"
+msgstr "Mensajes"
+
+#: ../essential-wp-real-estate/dashboard/dashboard.php:54
+msgid " Agency"
+msgstr "Agencia"
+
+#: ../essential-wp-real-estate/dashboard/dashboard.php:55
+msgid "  Agent"
+msgstr "Agente"
+
+#: ../essential-wp-real-estate/dashboard/dashboard.php:57
+#: ../essential-wp-real-estate/dashboard/listings.php:4
+msgid "My Listings"
+msgstr "Mis Publicaciones"
+
+#: ../essential-wp-real-estate/dashboard/dashboard.php:58
+#: ../essential-wp-real-estate/dashboard/favourites.php:4
+msgid "Bookmarked Listings"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/dashboard.php:59
+msgid "Change Password"
+msgstr "Cambiar Contraseña"
+
+#: ../essential-wp-real-estate/dashboard/dashboard.php:60
+msgid "Log Out"
+msgstr "Salir"
+
+#: ../essential-wp-real-estate/dashboard/edit/group.php:45
+msgid "Remove"
+msgstr "Eliminar"
+
+#: ../essential-wp-real-estate/dashboard/editagency.php:91
+#: ../essential-wp-real-estate/dashboard/editagent.php:90
+#: ../framework/tgm/class-tgm-plugin-activation.php:2874
+msgid "Update"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/editagency.php:180
+msgid "Add Agent"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/favourites.php:40
+msgid " View"
+msgstr "Ver"
+
+#: ../essential-wp-real-estate/dashboard/favourites.php:41
+msgid " Remove"
+msgstr "Eliminar"
+
+#: ../essential-wp-real-estate/dashboard/favourites.php:50
+#: ../essential-wp-real-estate/dashboard/listings.php:90
+msgid "No Listing Found"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/listings.php:30
+msgid "Pending"
+msgstr "Pendiente"
+
+#: ../essential-wp-real-estate/dashboard/message.php:4
+msgid "Message Inbox"
+msgstr "Buzón de Mensajes"
+
+#: ../essential-wp-real-estate/dashboard/message.php:46
+msgid "No message found"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/overview.php:3
+#: ../essential-wp-real-estate/dashboard/profile.php:4
+msgid "Please"
+msgstr "Por Favor"
+
+#: ../essential-wp-real-estate/dashboard/overview.php:3
+#: ../essential-wp-real-estate/dashboard/profile.php:4
+msgid "Login"
+msgstr "Ingreso"
+
+#: ../essential-wp-real-estate/dashboard/overview.php:35
+msgid "Your Current Package"
+msgstr "Su Paquete Contratado"
+
+#: ../essential-wp-real-estate/dashboard/overview.php:37
+msgid "Currently No Package Selected"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/overview.php:46
+msgid "Listings Included"
+msgstr "Publicaciones Incluidas"
+
+#: ../essential-wp-real-estate/dashboard/overview.php:60
+msgid "Listings Remaining"
+msgstr "Publicaciones Restantes"
+
+#: ../essential-wp-real-estate/dashboard/overview.php:70
+msgid "Total Reviews"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/overview.php:79
+msgid "Bookmarked"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/overview.php:92
+msgid "Never Expire"
+msgstr "Nunca Vence"
+
+#: ../essential-wp-real-estate/dashboard/overview.php:98
+msgid "Images / per listing"
+msgstr "Imagenes / Por Publicación"
+
+#: ../essential-wp-real-estate/dashboard/overview.php:107
+msgid "Ends On"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/profile.php:51
+msgid "Profile Successfully Updated."
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/profile.php:60
+msgid "My Account"
+msgstr "Mi Cuenta"
+
+#: ../essential-wp-real-estate/dashboard/profile.php:63
+msgid "Change Avatar"
+msgstr "Cambiar Imagen"
+
+#: ../essential-wp-real-estate/dashboard/profile.php:78
+msgid "User Name"
+msgstr "Nombre de Usuario"
+
+#: ../essential-wp-real-estate/dashboard/profile.php:82
+msgid "E-mail"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/profile.php:99
+msgid "Current Subscription"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/profile.php:109
+msgid "No Subscription"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/profile.php:117
+#: ../framework/redux/redux-config.php:360
+msgid "Phone"
+msgstr "Teléfono"
+
+#: ../essential-wp-real-estate/dashboard/profile.php:127
+msgid "City"
+msgstr "Ciudad"
+
+#: ../essential-wp-real-estate/dashboard/profile.php:132
+msgid "State"
+msgstr "Departamento"
+
+#: ../essential-wp-real-estate/dashboard/profile.php:137
+msgid "Zip"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/profile.php:144
+msgid "About"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/profile.php:155
+msgid "Facebook"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/profile.php:162
+msgid "Twitter"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/profile.php:169
+msgid "Linkedin"
+msgstr ""
+
+#: ../essential-wp-real-estate/dashboard/profile.php:176
+msgid "Instagram"
+msgstr ""
+
+#: ../essential-wp-real-estate/inc/sorter.php:12
+msgid "Showing"
+msgstr "Mostrando"
+
+#: ../essential-wp-real-estate/inc/sorter.php:12
+msgid "of"
+msgstr ""
+
+#: ../essential-wp-real-estate/inc/sorter.php:12
+msgid "Results"
+msgstr ""
+
+#: ../essential-wp-real-estate/search/taxo_type.php:48
+msgid "Select "
+msgstr "Seleccionar"
+
+#: ../essential-wp-real-estate/single/blocks/comment_form.php:44
+msgid "Average Ratting"
+msgstr ""
+
+#: ../essential-wp-real-estate/single/blocks/comment_form.php:53
+msgid "Messages"
+msgstr "Mensajes"
+
+#: ../essential-wp-real-estate/single/blocks/comment_form.php:59
+msgid "Your Name"
+msgstr "Su Nombre"
+
+#: ../essential-wp-real-estate/single/blocks/comment_form.php:64
+msgid "Your Email"
+msgstr "Su Dirección de Correo"
+
+#: ../essential-wp-real-estate/single/blocks/comment_form.php:70
+msgid "Submit Review"
+msgstr ""
+
+#: ../essential-wp-real-estate/single/blocks/comments_template.php:17
+msgid " Reviews"
+msgstr ""
+
+#: ../essential-wp-real-estate/single/blocks/comments_template.php:60
+msgid "Be the first one to rate this."
+msgstr ""
+
+#: ../essential-wp-real-estate/single/blocks/floor.php:20
+msgid "Beds: "
+msgstr "Habitaciones:"
+
+#: ../essential-wp-real-estate/single/blocks/floor.php:23
+msgid "Baths: "
+msgstr "Baños:"
+
+#: ../essential-wp-real-estate/single/blocks/floor.php:26
+#: ../essential-wp-real-estate/single/single-listing-info-2.php:49
+msgid "sqft"
+msgstr "M2"
+
+#: ../essential-wp-real-estate/single/blocks/floor.php:45
+msgid "No Floor Plan Included"
+msgstr ""
+
+#: ../essential-wp-real-estate/single/blocks/rating_overview.php:6
+msgid "out of 5.0"
+msgstr ""
+
+#: ../essential-wp-real-estate/single/blocks/rating_overview.php:84
+msgid "Property"
+msgstr "Propiedad"
+
+#: ../essential-wp-real-estate/single/blocks/rating_overview.php:99
+msgid "Value for Money"
+msgstr ""
+
+#: ../essential-wp-real-estate/single/blocks/rating_overview.php:112
+msgid "Location"
+msgstr "Ubicación"
+
+#: ../essential-wp-real-estate/single/blocks/rating_overview.php:125
+#: ../framework/dashboard/class-dashboard.php:609
+msgid "Support"
+msgstr ""
+
+#: ../essential-wp-real-estate/single/blocks/rating_overview.php:139
+msgid "Not yet Rated."
+msgstr ""
+
+#: ../essential-wp-real-estate/single/single-listing-info-2.php:30
+msgid " Bed"
+msgstr "Habitación"
+
+#: ../essential-wp-real-estate/single/single-listing-info-2.php:32
+msgid " Beds"
+msgstr "Habitaciones"
+
+#: ../essential-wp-real-estate/single/single-listing-info-2.php:41
+msgid " Bath"
+msgstr "Baño"
+
+#: ../essential-wp-real-estate/single/single-listing-info-2.php:43
+msgid " Baths"
+msgstr "Baños"
+
+#: ../essential-wp-real-estate/single/single-listing-info-3.php:26
+msgid "Share:"
+msgstr ""
+
+#: ../footer.php:22 ../framework/redux/redux-config.php:507
+msgid "©2021 resido. All rights reserved."
+msgstr ""
+
+#: ../framework/classes/resido-actions.php:145
+msgid "Error Page"
+msgstr ""
+
+#: ../framework/classes/resido-actions.php:151
+msgid "Search Results for: "
+msgstr "Buscar Resultados Para:"
+
+#: ../framework/classes/resido-actions.php:189
+#: ../framework/dashboard/admin/system-status.php:234
+#: ../framework/dashboard/admin/system-status.php:408
+#: ../framework/dashboard/class-dashboard.php:368
+#: ../framework/dashboard/class-dashboard.php:618
+#: ../framework/dashboard/class-dashboard.php:622
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../framework/dashboard/admin/activation.php:22
+msgid ""
+"First enter your license key in the below field  and click the button \"Save "
+"Changes\". After saving \"Activate License\" Button will be visible."
+msgstr ""
+
+#: ../framework/dashboard/admin/activation.php:23
+msgid "Then click \"Activate License\" button for active theme."
+msgstr ""
+
+#: ../framework/dashboard/admin/activation.php:40
+msgid "Activate License"
+msgstr ""
+
+#: ../framework/dashboard/admin/activation.php:46
+#: ../framework/dashboard/admin/activation.php:59
+msgid ""
+"If your theme license is activated another domain then you can remove "
+"license via below Manage Your License"
+msgstr ""
+
+#: ../framework/dashboard/admin/activation.php:47
+#: ../framework/dashboard/admin/activation.php:60
+msgid "Manage Your License"
+msgstr ""
+
+#: ../framework/dashboard/admin/demo-content-install.php:3
+msgid "You need to Install and Active Demo Importer Plugin For Demo Import."
+msgstr ""
+
+#: ../framework/dashboard/admin/getting-started.php:12
+msgid "Implement Recommended Actions"
+msgstr ""
+
+#: ../framework/dashboard/admin/getting-started.php:15
+#, php-format
+msgid ""
+"Thank you so much for your purchase of SmartDataSoft's %1$s theme! %2$s "
+"theme is designed for you with different layouts, one-click demo "
+"installation, wonderful and unique designs, amazing content blocks, get the "
+"price section, SEO friendly, Sticky menu, WooCommerce and lots more. Enjoy!"
+msgstr ""
+
+#: ../framework/dashboard/admin/getting-started.php:19
+msgid ""
+"If you’d like to get support from our team please open up a support ticket "
+"at first. Our support engineers are always ready to get back to you ASAP."
+msgstr ""
+
+#: ../framework/dashboard/admin/plugin.php:28
+msgid "Recommended Plugins"
+msgstr ""
+
+#: ../framework/dashboard/admin/support.php:5
+#, php-format
+msgid ""
+"%1$s provides free support for 6 months for every LICENSE you purchase. You "
+"are also able to extend support through subscriptions via ThemeForest. \n"
+"\t\t\t\t\t\t\tOur support center will handle all supports from our company "
+"website. Follow these steps to get access to your support. \n"
+"\t\t\t\t\t\t\t%2$s community are given below. You are also able to extend "
+"support through subscriptions via ThemeForest . Our support center will "
+"handle all supports from our company website .\n"
+"\t\t\t\t\t\t\t\t\tFollow these steps to get access to your support . % s "
+"community are given below . "
+msgstr ""
+
+#: ../framework/dashboard/admin/support.php:21
+msgid ""
+"Please remember ! Our support time is Monday to Friday 8.00AM to 05.00PM( "
+"GMT 6 + ) . We're very grateful for your patience during the off days."
+msgstr ""
+
+#: ../framework/dashboard/admin/support.php:30
+msgid "Submit A Ticket"
+msgstr ""
+
+#: ../framework/dashboard/admin/support.php:31
+msgid ""
+"Register your purchase first and get access to our support service and other "
+"resources to let us provide you our excellent support."
+msgstr ""
+
+#: ../framework/dashboard/admin/support.php:32
+msgid "Submit a ticket"
+msgstr ""
+
+#: ../framework/dashboard/admin/support.php:34
+#: ../framework/dashboard/admin/support.php:36
+msgid "Documentation"
+msgstr ""
+
+#: ../framework/dashboard/admin/support.php:35
+msgid ""
+"If you want to get the whole ball of wax of our theme, this is the place for "
+"you to check. It has an incredible reserve of information for different "
+"aspects of life."
+msgstr ""
+
+#: ../framework/dashboard/admin/support.php:38
+#: ../framework/dashboard/admin/support.php:41
+msgid "Video Tutorials"
+msgstr ""
+
+#: ../framework/dashboard/admin/support.php:39
+msgid ""
+"Video tutorials are one of the best ways to learn something, right? We "
+"provide tutorials in our youtube channel. Subscribe and get access to a "
+"library of high definition, easily narrated video tutorials. Dont forget to "
+"click the bell button to get notified every time we upload a video."
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:147
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:150
+msgid "Get system report"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:157
+msgid "Copy for support"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:161
+msgid "Copying to clipboard failed. Please press Ctrl/Cmd+C to copy."
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:169
+msgid "WordPress environment"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:175
+msgid "Home URL"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:182
+msgid "Site URL"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:189
+msgid "Theme version"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:197
+msgid "WordPress version"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:219
+#, php-format
+msgid "%1$s - There is a newer version of WordPress available (%2$s)"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:227
+msgid "WordPress multisite"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:239
+msgid "WordPress memory limit"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:246
+#, php-format
+msgid "%1$s - We recommend setting memory to at least 64MB. See: %2$s"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:246
+msgid "Increasing memory allocated to PHP"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:254
+msgid "WordPress debug mode"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:267
+msgid "WordPress cron"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:280
+msgid "Language"
+msgstr "Idioma"
+
+#: ../framework/dashboard/admin/system-status.php:287
+msgid "External object cache"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:305
+msgid "Server environment"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:312
+msgid "PHP version"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:321
+msgid "How to update your PHP version"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:325
+msgid ""
+"WooCommerce will run under this version of PHP, however, some features such "
+"as geolocation are not compatible. Support for this version will be dropped "
+"in the next major release. We recommend using PHP version 7.2 or above for "
+"greater performance and security."
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:327
+msgid ""
+"WooCommerce will run under this version of PHP, however, it has reached end "
+"of life. We recommend using PHP version 7.2 or above for greater performance "
+"and security."
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:329
+msgid ""
+"We recommend using PHP version 7.2 or above for greater performance and "
+"security."
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:340
+msgid "PHP post max size"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:348
+msgid "PHP time limit"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:356
+msgid "Minimum value is 300. "
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:362
+msgid "600 is recommanded. "
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:365
+msgid "Current time limit is sufficient. "
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:372
+msgid "PHP max input vars"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:379
+msgid "Minimum value is 1000. "
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:385
+msgid "2000 is recommanded. "
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:388
+msgid ""
+"3000 or more may be required if you use lot of plugins use or you have large "
+"amount of menu item."
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:394
+msgid "cURL version"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:401
+msgid "SUHOSIN installed"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:420
+msgid "MySQL version"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:428
+#, php-format
+msgid "%1$s - We recommend a minimum MySQL version of 5.6. See: %2$s"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:428
+msgid "WordPress requirements"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:437
+msgid "Max upload size"
+msgstr "Tamaño Máximo de Carga"
+
+#: ../framework/dashboard/admin/system-status.php:444
+msgid "Default timezone is UTC"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:452
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:460
+msgid "fsockopen/cURL"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:469
+msgid ""
+"Your server does not have fsockopen or cURL enabled - PayPal IPN and other "
+"scripts which communicate with other servers will not work. Contact your "
+"hosting provider."
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:475
+msgid "SoapClient"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:484
+#, php-format
+msgid ""
+"Your server does not have the %s class enabled - some gateway plugins which "
+"use SOAP may not work as expected."
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:490
+msgid "DOMDocument"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:499
+#, php-format
+msgid ""
+"Your server does not have the %s class enabled - HTML/Multipart emails, and "
+"also some extensions, will not work without DOMDocument."
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:505
+msgid "GZip"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:514
+#, php-format
+msgid ""
+"Your server does not support the %s function - this is required to use the "
+"GeoIP database from MaxMind."
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:520
+msgid "Multibyte string"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:529
+#, php-format
+msgid ""
+"Your server does not support the %s functions - this is required for better "
+"character encoding. Some fallbacks will be used instead for it."
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:535
+msgid "Remote post"
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:544
+#: ../framework/dashboard/admin/system-status.php:559
+#, php-format
+msgid "%s failed. Contact your hosting provider."
+msgstr ""
+
+#: ../framework/dashboard/admin/system-status.php:550
+msgid "Remote get"
+msgstr ""
+
+#: ../framework/dashboard/admin/wellcome.php:1
+#, php-format
+msgid "Welcome to %1$s"
+msgstr ""
+
+#: ../framework/dashboard/admin/wellcome.php:5
+#, php-format
+msgid ""
+"Thank you so much for using %1$s Theme! Please <a href=\"?page=%2$sproduct-"
+"registration\">activate your product</a> to get updates, to get demo content,"
+" automatic plugins updates and theme support. Check out the support tab to "
+"learn more about our support. We hope you enjoy it!"
+msgstr ""
+
+#: ../framework/dashboard/class-dashboard.php:94
+#: ../framework/dashboard/class-dashboard.php:311
+#: ../framework/dashboard/class-dashboard.php:439
+msgid "HTTP Error"
+msgstr ""
+
+#: ../framework/dashboard/class-dashboard.php:234
+#, php-format
+msgid ""
+"To receive automatic updates license activation is required. Please visit <a "
+"href=\"%s\">Setting</a> page."
+msgstr ""
+
+#: ../framework/dashboard/class-dashboard.php:360
+msgid "License Activated"
+msgstr ""
+
+#: ../framework/dashboard/class-dashboard.php:364
+msgid "License Deactiveted"
+msgstr ""
+
+#: ../framework/dashboard/class-dashboard.php:377
+msgid "License Key saved"
+msgstr ""
+
+#: ../framework/dashboard/class-dashboard.php:381
+msgid "License Key blank"
+msgstr ""
+
+#: ../framework/dashboard/class-dashboard.php:426
+msgid "Api Key Not Found.."
+msgstr ""
+
+#: ../framework/dashboard/class-dashboard.php:442
+msgid "Error Found"
+msgstr ""
+
+#: ../framework/dashboard/class-dashboard.php:486
+msgid "Require Activation"
+msgstr "Necesita Activación"
+
+#: ../framework/dashboard/class-dashboard.php:486
+#, php-format
+msgid ""
+"%1$s Theme Need to active with purchase code. Otherwise you can't Active / "
+"Update Bundle Plugin. You can active from <a href='%2$s'>Here</a>."
+msgstr ""
+
+#: ../framework/dashboard/class-dashboard.php:487
+msgid "Dismiss this notice."
+msgstr ""
+
+#: ../framework/dashboard/class-dashboard.php:502
+msgid ""
+"Our theme license system has been changed, Please active again your theme "
+"license"
+msgstr ""
+
+#: ../framework/dashboard/class-dashboard.php:541
+msgid "Copied!"
+msgstr ""
+
+#: ../framework/dashboard/class-dashboard.php:574
+msgid "Getting Started"
+msgstr ""
+
+#: ../framework/dashboard/class-dashboard.php:578
+msgid "Registration"
+msgstr "Registro"
+
+#: ../framework/dashboard/class-dashboard.php:582
+msgid "System Status"
+msgstr ""
+
+#: ../framework/dashboard/class-dashboard.php:586
+msgid "Plugins"
+msgstr ""
+
+#: ../framework/dashboard/class-dashboard.php:593
+#: ../framework/dashboard/class-dashboard.php:598
+msgid "Demo Import"
+msgstr ""
+
+#: ../framework/dashboard/class-dashboard.php:604
+msgid "Icon Add"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:30
+#: ../framework/redux/redux-config.php:31
+msgid "Resido Options"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:98
+msgid "General"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:106
+msgid "Preloader"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:112
+msgid "Sticky Header"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:118
+msgid "Back to top"
+msgstr "Ir Arriba"
+
+#: ../framework/redux/redux-config.php:127
+msgid "Color option"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:135
+#: ../framework/redux/redux-config.php:161
+#: ../framework/redux/redux-config.php:386
+#: ../framework/tgm/class-tgm-plugin-activation.php:2669
+msgid "Status"
+msgstr "Estado"
+
+#: ../framework/redux/redux-config.php:142
+msgid "Primary Color"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:153
+msgid "Typography"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:168
+msgid "H1"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:173
+msgid "Typography option for H1"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:179
+msgid "H2"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:184
+msgid "Typography option for H2"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:190
+msgid "H3"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:195
+msgid "Typography option for H3"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:201
+msgid "H4"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:206
+msgid "Typography option for H4"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:212
+msgid "H5"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:217
+msgid "Typography option for H5"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:223
+msgid "H6"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:228
+msgid "Typography option for H6"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:234
+msgid "P"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:239
+msgid "Typography option for P"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:245
+msgid "A"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:250
+msgid "Typography option for A"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:256
+msgid "Span"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:261
+msgid "Typography option for Span"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:267
+msgid "Body"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:272
+msgid "Typography option for Body"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:280
+msgid "Header"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:288
+#: ../framework/tgm/class-tgm-plugin-activation.php:2664
+msgid "Type"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:290
+msgid "Default"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:291 ../framework/tgm/config-tgm.php:99
+msgid "Elementor"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:299
+#: ../framework/redux/redux-config.php:429
+msgid "Layout"
+msgstr "Diseño"
+
+#: ../framework/redux/redux-config.php:301
+msgid "Style 1"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:302
+msgid "Style 2"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:312
+msgid "Header Right"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:320
+#: ../framework/redux/redux-config.php:500
+msgid "Elementor Template"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:330
+msgid "Transparent Header"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:340
+msgid "Header Top"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:351
+msgid "needhelp@example.com"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:361
+msgid "92 888 666 0000"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:370
+#: ../framework/redux/redux-config.php:512
+msgid "Social Info"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:378
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:393
+msgid "Show Breadcrumb List"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:400
+#: ../framework/redux/redux-config.php:457
+msgid "Subtitle"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:401
+msgid "See Our Latest Articles & News."
+msgstr ""
+
+#: ../framework/redux/redux-config.php:407
+msgid "Background"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:421
+msgid "Blog"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:431
+msgid "List"
+msgstr "Publicación"
+
+#: ../framework/redux/redux-config.php:432
+msgid "Grid"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:439
+msgid "Archive Page Title"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:440
+msgid "Our Articles"
+msgstr "Nuestros Artículos"
+
+#: ../framework/redux/redux-config.php:445
+msgid "Single Page Title"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:446
+msgid "Blog Details"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:452
+msgid "Latest News"
+msgstr "Últimas Noticias"
+
+#: ../framework/redux/redux-config.php:458
+msgid "We post regulary most powerful articles for help and support."
+msgstr ""
+
+#: ../framework/redux/redux-config.php:463
+#: ../template-parts/single/content.php:48
+msgid "Social Share"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:469
+msgid "Author Box"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:475
+msgid "Post Nevigation"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:484
+msgid "Footer"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:492
+msgid "Footer Elementor"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:506
+msgid "Copyright"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:520
+msgid "Extra"
+msgstr ""
+
+#: ../framework/redux/redux-config.php:528
+msgid "Theme Initialized"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:333
+#: ../framework/tgm/config-tgm.php:146
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:334
+#: ../framework/tgm/config-tgm.php:147
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:336
+#: ../framework/tgm/config-tgm.php:148
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:339
+#: ../framework/tgm/config-tgm.php:149
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:391
+#: ../framework/tgm/config-tgm.php:160
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:392
+#: ../framework/tgm/class-tgm-plugin-activation.php:918
+#: ../framework/tgm/class-tgm-plugin-activation.php:2648
+#: ../framework/tgm/class-tgm-plugin-activation.php:3766
+msgid "Return to the Dashboard"
+msgstr "Regresar al Tablero De Control"
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:393
+#: ../framework/tgm/class-tgm-plugin-activation.php:3332
+#: ../framework/tgm/config-tgm.php:161
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:394
+msgid "The following plugin was activated successfully."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:396
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:398
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:400
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:401
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:402
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:403
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:607
+msgid "Update Required"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1027
+#: ../framework/tgm/class-tgm-plugin-activation.php:1037
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:1037
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2095
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2390
+msgid "Required"
+msgstr "Requerido"
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2393
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2409
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2412
+msgid "External Source"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2415
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2432
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2436
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2438
+msgid "Active"
+msgstr "Activo"
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2444
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2446
+msgid "Requires Update"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2448
+msgid "Update recommended"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2457
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2507
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2511
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2515
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2597
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2605
+msgid "Installed version:"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2613
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2625
+msgid "Available version:"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2648
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2662
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2663
+msgid "Source"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2668
+msgid "Version"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2716
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2721
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2726
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2738
+#: ../framework/tgm/class-tgm-plugin-activation.php:2747
+msgid "Need to Active with Purchase Code"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2743
+msgid "Need to active with Purchase Code"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2836
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2868
+msgid "Install"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2877
+msgid "Activate"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2906
+msgid "To "
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2909
+#, php-format
+msgid " You can Active  Lience from <a href='%s'>Here</a>.<br>"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2927
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2929
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2970
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:2972
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:3079
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:3105
+msgid " No plugins are available to be activated at this time."
+msgstr "Contraseña no coincide"
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:3123
+msgid " The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:3331
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:3680
+#: ../framework/tgm/class-tgm-plugin-activation.php:3701
+msgid "<br>"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:3683
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:3689
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:3693
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:3695
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:3696
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:3698
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:3703
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:3704
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/tgm/class-tgm-plugin-activation.php:3706
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/tgm/config-tgm.php:83
+msgid "Essential Wp Real Estate"
+msgstr ""
+
+#: ../framework/tgm/config-tgm.php:91
+msgid "Redux Framework"
+msgstr ""
+
+#: ../framework/tgm/config-tgm.php:107
+msgid "Meta Box"
+msgstr ""
+
+#: ../framework/tgm/config-tgm.php:162
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:105
+msgid "Primary"
+msgstr ""
+
+#: ../functions.php:187
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../functions.php:189
+msgid "Add widgets here."
+msgstr ""
+
+#: ../inc/template-tags.php:113
+msgid "Tags:"
+msgstr ""
+
+#: ../inc/template-tags.php:160
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:293
+msgid "« Reply"
+msgstr ""
+
+#: ../inc/template-tags.php:338
+msgid " Reply "
+msgstr "Responder"
+
+#: ../template-parts/blog-layout/blog-content.php:67
+msgid "Continue"
+msgstr ""
+
+#: ../template-parts/content.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""

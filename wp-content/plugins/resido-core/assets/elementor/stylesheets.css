@@ -1,0 +1,61 @@
+#elementor-panel-categories
+{
+   display: flex;
+   flex-direction: column;
+}
+
+#elementor-panel-category-resido
+{
+    order:-1;
+}
+#elementor-panel-category-basic
+{
+    order:-1;
+}
+
+#elementor-panel-category-resido .elementor-element .icon::before{
+    content:"";
+    background-image: url(icon.svg);position: absolute;
+    background-size: 14px 14px;
+    background-repeat: no-repeat;
+    right: 10px;
+    top: 10px;
+    width: 14px; 
+    height: 14px;
+}
+
+.sds-widget-ico:before {
+    content: "";
+    background-image: url(favicon.svg);
+    display: inline-block;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 24px;
+    height: 24px;
+}
+.resido-icon:before {
+    content: "";
+    background-image: url(favicon.svg);
+    display: inline-block;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 15px;
+    height: 15px;
+}
+
+/* sds Contact */
+.error-container {
+    color: red;
+    margin-top: 15px;
+}
+.form-wrapper .elementor-form-fields-wrapper {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.form-wrapper .form-group {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.error {
+    color: red;
+}

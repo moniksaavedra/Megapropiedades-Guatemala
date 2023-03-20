@@ -1,0 +1,97 @@
+.woocommerce a.remove {
+    display: inline-block;
+    font-size: 1.5em;
+    height: 1em;
+    width: 1em;
+    text-align: center;
+    line-height: 1;
+    border-radius: 100%;
+    color: red!important;
+    text-decoration: none;
+    font-weight: 700;
+    border: 0;
+    background: transparent;
+    opacity: 1;
+    position: unset;
+    margin: 0;
+}
+a.button.wc-listing-cart {
+    color: #fff;
+    display: block;
+    text-align: center;
+    padding: 15px 30px;
+}
+.woocommerce form .form-row input.input-text, 
+.woocommerce form .form-row textarea {
+    border: 1px solid #e3e3e3;
+    height: 50px;
+    width: 100%;
+    padding: 10px 20px;
+    transition: .5s;
+    font-family: 'Inter';
+    font-size: 15px;
+}
+ul.wc_payment_methods.payment_methods.methods li {
+    list-style: none;
+}
+
+ul.wc_payment_methods.payment_methods.methods [type="radio"]:checked+label:after,
+ul.wc_payment_methods.payment_methods.methods [type="radio"]:not(:checked)+label:after {
+    width: 14px;
+    height: 14px;
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    font-size: 0;
+}
+
+ul.wc_payment_methods.payment_methods.methods [type="radio"]:checked+label:after {
+    background: var(--primary) !important;
+    font-size: 8px;
+}
+
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
+    font-weight: 600;
+    border-radius: 0;
+    left: auto;
+    color: #fff !important;
+    background-color: var(--primary);
+    border: 0;
+    display: inline-block;
+    background-image: none;
+    box-shadow: none;
+    text-shadow: none;
+    min-height: 45px;
+    line-height: 45px;
+    padding: 0px 31px 0px !important;
+    text-align: center;
+    text-transform: capitalize;
+    border: 2px solid transparent;
+    transition: .3s;
+}
+
+.woocommerce-cart table.cart td.actions .coupon .input-text {
+    min-width: 160px;
+    min-height: 50px;
+    border-radius: 0px;
+    padding-left: 10px;
+    text-transform: capitalize;
+}
+.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
+    background-color: var(--primary);
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    font-size: 16px;
+    display: inline-block;
+}
+.woocommerce-checkout .select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 50px;
+    padding-left: 20px;
+    font-size: 15px;
+    color: #6c7176;
+}
+.woocommerce-checkout .select2-container--default .select2-selection--single {
+    border: 1px solid #e3e3e3;
+    height: 50px;
+    border-radius: 0%;
+}

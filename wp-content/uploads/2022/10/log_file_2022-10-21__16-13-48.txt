@@ -1,0 +1,264 @@
+
+---Downloaded files---
+The import files for: Resido were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://megapropiedadesguatemala.com
+Data file = /home2/alguva/megapropiedadesguatemala.com/wp-content/plugins/resido-demo-installer/demo-data/demo1/contents.xml
+Widget file = /home2/alguva/megapropiedadesguatemala.com/wp-content/plugins/resido-demo-installer/demo-data/demo1/widgets.wie
+Customizer file = /home2/alguva/megapropiedadesguatemala.com/wp-content/plugins/resido-demo-installer/demo-data/demo1/customize.dat
+Redux files:
+resido_options -> /home2/alguva/megapropiedadesguatemala.com/wp-content/plugins/resido-demo-installer/demo-data/demo1/settings.json 
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo-light" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo-light" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo-light" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo-light" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo-light" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo-light" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo-light" (Media)
+
+
+------
+New AJAX call!
+			<section class="gray-simple">
+				<div class="container">
+					<div class="row">
+						<!-- Submit Form -->
+						<div class="col-lg-12 col-md-12">
+							<div class="submit-page add">
+								<form action="https://megapropiedadesguatemala.com/add-listing-page-2/" method="post" id="listing-submit-form" class="listing-submit-form" enctype="multipart/form-data">
+									<div class="row"><div class="col-md-12 form-group cl_featured_img">
+	<img class="files_featured" src="https://megapropiedadesguatemala.com/wp-content/plugins/essential-wp-real-estate/assets/img/placeholder_light.png" alt="img" />	<label for="file-input" id="add-ft-img" class="select_single_label">
+		<i class="fa fa-upload"></i> Select Image	</label>
+	<input type="hidden" class="single_img_id" name="featured_image[]">
+</div>
+<div class="column form-group col-md-12" data-group_field_id="title">
+	<label for="add_title">Title</label>
+	<input required id="add_title" class="form-control cl_add_field" type="text" name="title">
+</div>
+<div class="column form-group col-md-12" data-group_field_id="description">
+	<label for="add_description">Description</label>
+	<textarea id="add_description" class="form-control cl_add_field" name="description" id="" cols="30" rows="10"></textarea>
+</div>
+<div class="column form-group col-md-12" data-group_field_id="listings_property">
+	<label for="add_listings_property">Property Types</label>
+	<select class="form-control cl_add_field select2-active" id="add_listings_property" name="listings_property">
+		<option value="">Select</option><option value="apartment">Apartment</option><option value="condos">Condos</option><option value="denver">Denver</option><option value="house">House</option><option value="offices">Offices</option><option value="rental">Rental</option><option value="studios">Studios</option><option value="villas">Villas</option>	</select>
+</div>
+<div class="column form-group col-md-12" data-group_field_id="listing_location">
+	<label for="add_listing_location">Listing Locations</label>
+	<select class="form-control cl_add_field select2-active" id="add_listing_location" name="listing_location">
+		<option value="">Select</option><option value="brooklyn">Brooklyn</option><option value="california">California</option><option value="dunao">Dunao</option><option value="liverpool">Liverpool</option><option value="london">London</option><option value="los-angeles">Los Angeles</option><option value="louisiana">Louisiana</option><option value="new-orleans">New Orleans</option><option value="new-york">New York</option><option value="queens">Queens</option><option value="san-francisco">San Francisco</option><option value="united-kingdom">United Kingdom</option>	</select>
+</div>
+<div class="column form-group col-md-12" data-group_field_id="listing_status">
+	<label for="add_listing_status">Listing Status</label>
+	<select class="form-control cl_add_field select2-active" id="add_listing_status" name="listing_status">
+		<option value="">Select</option><option value="buy">Buy</option><option value="rent">Rent</option><option value="sale">Sale</option>	</select>
+</div>
+<div class="column form-group col-md-12" data-group_field_id="listing_features">
+	<label>Listing Features</label>
+	<div class="checkbox_cont row">
+		<div class="checkbox_item col-md-3"><input type="checkbox" id="air-conditioning" name="listing_features[]" value="air-conditioning"><label for="air-conditioning">Air Conditioning</label></div><div class="checkbox_item col-md-3"><input type="checkbox" id="alarm-system" name="listing_features[]" value="alarm-system"><label for="alarm-system">Alarm System</label></div><div class="checkbox_item col-md-3"><input type="checkbox" id="car-parking" name="listing_features[]" value="car-parking"><label for="car-parking">Car Parking</label></div><div class="checkbox_item col-md-3"><input type="checkbox" id="central-heating" name="listing_features[]" value="central-heating"><label for="central-heating">Central Heating</label></div><div class="checkbox_item col-md-3"><input type="checkbox" id="free-wifi" name="listing_features[]" value="free-wifi"><label for="free-wifi">Free WiFi</label></div><div class="checkbox_item col-md-3"><input type="checkbox" id="gym" name="listing_features[]" value="gym"><label for="gym">Gym</label></div><div class="checkbox_item col-md-3"><input type="checkbox" id="internet" name="listing_features[]" value="internet"><label for="internet">Internet</label></div><div class="checkbox_item col-md-3"><input type="checkbox" id="laundry-room" name="listing_features[]" value="laundry-room"><label for="laundry-room">Laundry Room</label></div><div class="checkbox_item col-md-3"><input type="checkbox" id="pets-allow" name="listing_features[]" value="pets-allow"><label for="pets-allow">Pets Allow</label></div><div class="checkbox_item col-md-3"><input type="checkbox" id="spa-massage" name="listing_features[]" value="spa-massage"><label for="spa-massage">Spa &amp; Massage</label></div><div class="checkbox_item col-md-3"><input type="checkbox" id="swimming-pool" name="listing_features[]" value="swimming-pool"><label for="swimming-pool">Swimming Pool</label></div><div class="checkbox_item col-md-3"><input type="checkbox" id="window-covering" name="listing_features[]" value="window-covering"><label for="window-covering">Window Covering</label></div>	</div>
+</div>
+<div class="col-md-12"><h4 class="cl_add_inp_heading">preset</h4><div class="row"><div class="column form-group col-md-12" data-group_field_id="wperesds_pricing">
+	<label for="add_wperesds_pricing">Price</label>
+	<input id="add_wperesds_pricing" type="number" class="form-control cl_add_field" name="wperesds_pricing">
+</div>
+<div class="column form-group col-md-12" data-group_field_id="wperesds_beds">
+	<label for="add_wperesds_beds">Bedroom</label>
+	<input id="add_wperesds_beds" type="number" class="form-control cl_add_field" name="wperesds_beds">
+</div>
+<div class="column form-group col-md-12" data-group_field_id="wperesds_bath">
+	<label for="add_wperesds_bath">Washroom</label>
+	<input id="add_wperesds_bath" type="number" class="form-control cl_add_field" name="wperesds_bath">
+</div>
+<div class="column form-group col-md-12" data-group_field_id="wperesds_area">
+	<label for="add_wperesds_area">Area Size</label>
+	<input id="add_wperesds_area" type="number" class="form-control cl_add_field" name="wperesds_area">
+</div>
+<div class="column form-group col-md-12" data-group_field_id="wperesds_garage">
+	<label for="add_wperesds_garage">Garage</label>
+	<input id="add_wperesds_garage" type="number" class="form-control cl_add_field" name="wperesds_garage">
+</div>
+<div class="column form-group col-md-12" data-group_field_id="wperesds_year">
+	<label for="add_wperesds_year">Year</label>
+	<input id="add_wperesds_year" type="number" class="form-control cl_add_field" name="wperesds_year">
+</div>
+<div class="column form-group col-md-12" data-group_field_id="wperesds_address">
+	<label for="add_wperesds_address">Address</label>
+	<input  id="add_wperesds_address" class="form-control cl_add_field" type="text" name="wperesds_address">
+</div>
+<div class="column form-group col-md-12" data-group_field_id="wperesds_zip">
+	<label for="add_wperesds_zip">Zip/Post Code</label>
+	<input  id="add_wperesds_zip" class="form-control cl_add_field" type="text" name="wperesds_zip">
+</div>
+<div class="column form-group col-md-12" data-group_field_id="wperesds_phone">
+	<label for="add_wperesds_phone">Phone</label>
+	<input  id="add_wperesds_phone" class="form-control cl_add_field" type="text" name="wperesds_phone">
+</div>
+<div class="column form-group col-md-12" data-group_field_id="wperesds_email">
+	<label for="add_wperesds_email">Email</label>
+	<input  id="add_wperesds_email" class="form-control cl_add_field" type="text" name="wperesds_email">
+</div>
+<div class="column form-group col-md-12" data-group_field_id="wperesds_website">
+	<label for="add_wperesds_website">Website</label>
+	<input id="add_wperesds_website" class="form-control cl_add_field" type="url" name="wperesds_website">
+</div>
+<div class="form-group col-md-12">
+	<div class="mb_gal__container" data-key="">
+		<label for="add_wperesds_gallery">Gallery</label>
+		<div data-field_id="wperesds_gallery" id="wperesds_gallery_cont" class="components-responsive-wrapper">
+			<img id="wperesds_gallery" class="cl_mb_placeholder" src="https://megapropiedadesguatemala.com/wp-content/plugins/essential-wp-real-estate/assets/img/placeholder.png" alt="Placeholder">
+		</div>
+		<div class="button_control">
+			<button data-name="wperesds_gallery" id="wperesds_gallery" type="button" class="mb_btn mb_img_upload_btn">Upload Images</button>
+			<button data-placeholder="https://megapropiedadesguatemala.com/wp-content/plugins/essential-wp-real-estate/assets/img/placeholder.png" id="wperesds_gallery" type="button" class="mb_btn cl_mb_clear_btn">Clear</button>
+		</div>
+	</div>
+</div>
+<div class="form-group col-md-12">
+	<label for="add_wperesds_features">Advance Features</label>
+	<hr>
+	<div class="row">
+		<div class="col-md-12 column" data-group_id="wperesds_features"><div class="cl_mb_clone_single"><div class="column form-group col-md-12" data-group_field_id="wperesds_features_icon">
+	<label for="add_wperesds_features[6352c61ab8853][wperesds_features_icon]">Icon</label>
+	<select class="form-control cl_add_field select2-active" id="add_wperesds_features[6352c61ab8853][wperesds_features_icon]" name="wperesds_features[6352c61ab8853][wperesds_features_icon]">
+		<option value=""></option><option value="fa fa-shower">fa fa-shower</option><option value="fa fa-bars">fa fa-bars</option><option value="fa fa-bath">fa fa-bath</option><option value="fa fa-bed">fa fa-bed</option><option value="fa fa-beer">fa fa-beer</option><option value="fa fa-bicycle">fa fa-bicycle </option><option value="fa fa-biking">fa fa-biking</option><option value="fa fa-bus">fa fa-bus</option><option value="fa fa-space-shuttle">fa fa-space-shuttle</option><option value="fa fa-taxi">fa fa-taxi</option><option value="fa fa-television">fa fa-television</option><option value="fa fa-university">fa fa-university </option><option value="fa fa-user-secret">fa fa-user-secret </option><option value="fa fa-users">fa fa-users </option><option value="fa fa-ambulance">fa fa-ambulance </option><option value="fa fa-subway">fa fa-subway </option><option value="fa fa-plane">fa fa-plane </option>	</select>
+</div>
+<div class="column form-group col-md-12" data-group_field_id="wperesds_features_name">
+	<label for="add_wperesds_features[6352c61ab8853][wperesds_features_name]">Name</label>
+	<input  id="add_wperesds_features[6352c61ab8853][wperesds_features_name]" class="form-control cl_add_field" type="text" name="wperesds_features[6352c61ab8853][wperesds_features_name]">
+</div>
+<button class="remove_clone_btn"><span class="dashicons dashicons-dismiss"></span> Remove</button></div><button id="wperesds_features" class="mb_btn primary clone_group_btn"><span class="dashicons dashicons-plus-alt"></span>Add New</button></div>	</div>
+</div>
+<div class="form-group col-md-12">
+	<label for="add_wperesds_amenities">Amenities</label>
+	<hr>
+	<div class="row">
+		<div class="col-md-12 column" data-group_id="wperesds_amenities"><div class="cl_mb_clone_single"><div class="column form-group col-md-12" data-group_field_id="wperesds_amenity_name">
+	<label for="add_wperesds_amenities[6352c61ab892a][wperesds_amenity_name]">Name</label>
+	<input  id="add_wperesds_amenities[6352c61ab892a][wperesds_amenity_name]" class="form-control cl_add_field" type="text" name="wperesds_amenities[6352c61ab892a][wperesds_amenity_name]">
+</div>
+<div class="column form-group col-md-12" data-group_field_id="wperesds_amenity_status">
+	<label for="add_wperesds_amenities[6352c61ab892a][wperesds_amenity_status]">Select</label>
+	<select class="form-control cl_add_field select2-active" id="add_wperesds_amenities[6352c61ab892a][wperesds_amenity_status]" name="wperesds_amenities[6352c61ab892a][wperesds_amenity_status]">
+		<option value=""></option><option value="Yes">Yes</option><option value="No">No</option>	</select>
+</div>
+<button class="remove_clone_btn"><span class="dashicons dashicons-dismiss"></span> Remove</button></div><button id="wperesds_amenities" class="mb_btn primary clone_group_btn"><span class="dashicons dashicons-plus-alt"></span>Add New</button></div>	</div>
+</div>
+<div class="form-group col-md-12">
+	<label for="add_wperesds_floor">Floor Plan</label>
+	<hr>
+	<div class="row">
+		<div class="col-md-12 column" data-group_id="wperesds_floor"><div class="cl_mb_clone_single"><div class="column form-group col-md-12" data-group_field_id="wperesds_floor_name">
+	<label for="add_wperesds_floor[6352c61ab89b7][wperesds_floor_name]">Floor Name</label>
+	<input  id="add_wperesds_floor[6352c61ab89b7][wperesds_floor_name]" class="form-control cl_add_field" type="text" name="wperesds_floor[6352c61ab89b7][wperesds_floor_name]">
+</div>
+<div class="column form-group col-md-12" data-group_field_id="wperesds_floor_beds">
+	<label for="add_wperesds_floor[6352c61ab89b7][wperesds_floor_beds]">Beds</label>
+	<input  id="add_wperesds_floor[6352c61ab89b7][wperesds_floor_beds]" class="form-control cl_add_field" type="text" name="wperesds_floor[6352c61ab89b7][wperesds_floor_beds]">
+</div>
+<div class="column form-group col-md-12" data-group_field_id="wperesds_floor_baths">
+	<label for="add_wperesds_floor[6352c61ab89b7][wperesds_floor_baths]">Baths</label>
+	<input  id="add_wperesds_floor[6352c61ab89b7][wperesds_floor_baths]" class="form-control cl_add_field" type="text" name="wperesds_floor[6352c61ab89b7][wperesds_floor_baths]">
+</div>
+<div class="column form-group col-md-12" data-group_field_id="wperesds_floor_area">
+	<label for="add_wperesds_floor[6352c61ab89b7][wperesds_floor_area]">Area (sqft)</label>
+	<input  id="add_wperesds_floor[6352c61ab89b7][wperesds_floor_area]" class="form-control cl_add_field" type="text" name="wperesds_floor[6352c61ab89b7][wperesds_floor_area]">
+</div>
+<div class="column form-group col-md-12 mb_gal__container" data-group_field_id="wperesds_floor_blueprint">
+	<label for="add_wperesds_floor[6352c61ab89b7][wperesds_floor_blueprint]">Blueprint</label>
+	<div data-key="6352c61ab89b7" data-field_id="wperesds_floor_blueprint" id="wperesds_floor_blueprint6352c61ab89b7_cont" class="components-responsive-wrapper">
+		<input type="hidden" name="wperesds_floor[6352c61ab89b7][wperesds_floor_blueprint]" value="">
+		<img id="wperesds_floor_blueprint6352c61ab89b7" class="cl_mb_placeholder" src="https://megapropiedadesguatemala.com/wp-content/plugins/essential-wp-real-estate/assets/img/placeholder.png" alt="Placeholder">
+	</div>
+	<div class="button_control">
+		<button data-name="wperesds_floor[6352c61ab89b7][wperesds_floor_blueprint]" id="wperesds_floor_blueprint6352c61ab89b7" type="button" class="mb_btn mb_img_upload_btn">Upload Images</button>
+		<button data-placeholder="https://megapropiedadesguatemala.com/wp-content/plugins/essential-wp-real-estate/assets/img/placeholder.png" id="wperesds_floor_blueprint6352c61ab89b7" type="button" class="mb_btn cl_mb_clear_btn">Clear</button>
+	</div>
+</div>
+<button class="remove_clone_btn"><span class="dashicons dashicons-dismiss"></span> Remove</button></div><button id="wperesds_floor" class="mb_btn primary clone_group_btn"><span class="dashicons dashicons-plus-alt"></span>Add New</button></div>	</div>
+</div>
+<div class="form-group col-md-12">
+	<label for="add_wperesds_video">Video</label>
+	<hr>
+	<div class="row">
+		<div class="column form-group col-md-12" data-group_field_id="wperesds_video_url">
+	<label for="add_wperesds_video[wperesds_video_url]">Url</label>
+	<input id="add_wperesds_video[wperesds_video_url]" class="form-control cl_add_field" type="url" name="wperesds_video[wperesds_video_url]">
+</div>
+<div class="column form-group col-md-12 mb_gal__container" data-group_field_id="wperesds_video_img">
+	<label for="add_wperesds_video[wperesds_video_img]">Video Placeholder</label>
+	<div data-key="" data-field_id="wperesds_video_img" id="wperesds_video_img_cont" class="components-responsive-wrapper">
+		<input type="hidden" name="wperesds_video[wperesds_video_img]" value="">
+		<img id="wperesds_video_img" class="cl_mb_placeholder" src="https://megapropiedadesguatemala.com/wp-content/plugins/essential-wp-real-estate/assets/img/placeholder.png" alt="Placeholder">
+	</div>
+	<div class="button_control">
+		<button data-name="wperesds_video[wperesds_video_img]" id="wperesds_video_img" type="button" class="mb_btn mb_img_upload_btn">Upload Images</button>
+		<button data-placeholder="https://megapropiedadesguatemala.com/wp-content/plugins/essential-wp-real-estate/assets/img/placeholder.png" id="wperesds_video_img" type="button" class="mb_btn cl_mb_clear_btn">Clear</button>
+	</div>
+</div>
+	</div>
+</div>
+<div class="form-group col-md-12">
+	<label for="add_wperesds_maps_fields">Map</label>
+	<hr>
+	<div class="row">
+		<div class="col-md-12" data-group_field_id="wperesds_map_address">
+    <input id="cl-meta-text-input-lat" type="hidden" value="0" name="wperesds_maps_fields[wperesds_map_address_lat]">
+</div>
+<div class="col-md-12" data-group_field_id="wperesds_map_address">
+    <input id="cl-meta-text-input-lon" type="hidden" value="0" name="wperesds_maps_fields[wperesds_map_address_lon]">
+</div>
+<div class="col-12">
+    <div id="map-ed" style="height:500px;"></div>
+</div>	</div>
+</div>
+</div></div></div>	<div class="column form-group col-md-12">
+		<label for="listing_agency">Agency</label>
+		<select name="listing_agency" class="form-control">
+		<option value="0">Select Agency</option><option value="">Creekland</option><option value="">Fox Run Real Estate</option><option value="">Sovereign Realty</option><option value="">Blue Sky Realty</option><option value="">Nestled Real Estate</option><option value="">Found Property Group</option><option value="">Bottom Line Realty</option><option value="">Pilot Property Group</option><option value="">Beacon Homes LLC</option><option value="">Strive Partners Realty</option>		</select>
+	</div>
+			<div class="column form-group col-md-12">
+		<label for="listing_agent">Agent</label>
+		<select name="listing_agent" class="form-control">
+		<option value="0">Select Agent</option><option value="">Denial Parker</option><option value="">Colin H. Renda</option><option value="">Michael Bainge</option><option value="">Robert Dowgne</option><option value="">Elina Parker</option><option value="">Aroshi Shusuke</option><option value="">Jonath Pawl</option><option value="">Alexia Vervana</option><option value="">Colin H. Renda</option><option value="">Adam D. Okraar</option>		</select>
+	</div>
+											<div class="form-group">
+										<input type="hidden" id="submit-listing" name="submit-listing" value="932a272097" /><input type="hidden" name="_wp_http_referer" value="/wp-admin/admin-ajax.php" />											<input class="btn btn-theme-light-2 rounded" type="submit" name="cl_add_l_submit" value="Submit &#38; Preview">
+																			</div>
+								</form>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			

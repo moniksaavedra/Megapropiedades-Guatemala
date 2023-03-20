@@ -1,0 +1,3091 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Resido Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-21 15:11+0600\n"
+"PO-Revision-Date: 2022-12-07 20:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español de Colombia\n"
+"Language: es_CO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1"
+
+#: ../agency/agency.php:298 ../agency/single-agent.php:241
+#: ../includes/Elementor/Widgets/Template/grid_layout.php:104
+#: ../includes/Elementor/Widgets/Template/list_layout.php:77
+#: ../includes/Elementor/Widgets/Template/list_layout.php:105
+#: ../includes/Elementor/Widgets2/Template/grid_layout.php:91
+#: ../includes/Elementor/Widgets2/Template/list_layout.php:98
+msgid " Bath"
+msgstr " Baño"
+
+#: ../agency/agency.php:300 ../agency/single-agent.php:243
+#: ../includes/Elementor/Widgets/Template/grid_layout.php:106
+#: ../includes/Elementor/Widgets/Template/list_layout.php:107
+#: ../includes/Elementor/Widgets2/Template/grid_layout.php:93
+#: ../includes/Elementor/Widgets2/Template/list_layout.php:100
+msgid " Baths"
+msgstr " Baños"
+
+#: ../includes/Elementor/Widgets/Template/grid_layout.php:90
+#: ../includes/Elementor/Widgets/Template/list_layout.php:90
+msgid " Bed"
+msgstr " Habitación"
+
+#: ../includes/Widgets/Resido_Listing_Search.php:420
+msgid " Bedrooms"
+msgstr "Habitaciones"
+
+#: ../agency/agency.php:288 ../agency/single-agent.php:231
+#: ../includes/Elementor/Widgets/Template/grid_layout.php:77
+#: ../includes/Elementor/Widgets/Template/grid_layout.php:92
+#: ../includes/Elementor/Widgets/Template/list_layout.php:76
+#: ../includes/Elementor/Widgets/Template/list_layout.php:92
+#: ../includes/Elementor/Widgets2/Template/grid_layout.php:77
+#: ../includes/Elementor/Widgets2/Template/list_layout.php:84
+msgid " Beds"
+msgstr " Habitaciones"
+
+#: ../includes/Elementor/Widgets/Template/list_layout.php:50
+#: ../includes/Elementor/Widgets/Template/list_layout.php:52
+msgid " Reviews"
+msgstr "Reseñas"
+
+#: ../resido-core.php:199 ../resido-core.php:223
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb_trail.php:479
+msgid "$post global is not of type WP_Post"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit_message.php:43
+msgid "$uid must not be null if message is dismissible"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:284
+#, php-format
+msgid ""
+"%1$sDonate%2$s: Love Breadcrumb NavXT and want to help development? Consider "
+"buying the author a beer."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:281
+#, php-format
+msgid ""
+"%1$sOnline Documentation%2$s: Check out the documentation for more indepth "
+"technical information."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:282
+#, php-format
+msgid ""
+"%1$sReport a Bug%2$s: If you think you have found a bug, please include your "
+"WordPress version and details on how to reproduce the bug."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:285
+#, php-format
+msgid ""
+"%1$sTranslate%2$s: Is your language not available? Visit the Breadcrumb "
+"NavXT translation project on WordPress.org to start translating."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:280
+#, php-format
+msgid ""
+"%1$sTutorials and How Tos%2$s: There are several guides, tutorials, and how "
+"tos available on the author's website."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:581
+#, php-format
+msgid "%s Archive Display"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:588
+#, php-format
+msgid "%s Hierarchy"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:582
+#, php-format
+msgid "%s Hierarchy Display"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:584
+#, php-format
+msgid "%s Hierarchy Referer Influence"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:583
+#, php-format
+msgid "%s Hierarchy Use Parent First"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:563
+#, php-format
+msgid "%s Root Page"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:557
+#: ../breadcrumb-navxt/class.bcn_admin.php:662
+#, php-format
+msgid "%s Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:558
+#: ../breadcrumb-navxt/class.bcn_admin.php:663
+#, php-format
+msgid "%s Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:572
+#: ../breadcrumb-navxt/class.bcn_admin.php:693
+#: ../includes/Widgets/Service_Sidebar_Menu.php:125
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ../includes/Subscriptionlist.php:347
+msgid "(customer missing)"
+msgstr ""
+
+#: ../includes/Subscriptionlist.php:291
+msgid "(unknown)"
+msgstr ""
+
+#: ../includes/Sidebar_Generator.php:255
+msgid "+ Add Sidebar"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:58
+#: ../includes/Elementor/Widgets/Achievement.php:65
+#: ../includes/Elementor/Widgets/Explore_Property.php:138
+#: ../includes/Elementor/Widgets/Explore_Property.php:164
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:71
+#: ../includes/Elementor/Widgets2/Explore_Property.php:135
+#: ../includes/Elementor/Widgets2/Explore_Property.php:161
+msgid "1"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:212
+#: ../includes/Elementor/Widgets2/Advance_Search.php:212
+msgid "1,2,3,4,5"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:164
+#: ../includes/Elementor/Widgets/Advance_Search.php:188
+#: ../includes/Elementor/Widgets2/Advance_Search.php:164
+#: ../includes/Elementor/Widgets2/Advance_Search.php:188
+msgid "100,200,300,400,500"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:73
+msgid "12"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:61
+#: ../includes/Elementor/Widgets/Achievement.php:66
+#: ../includes/Elementor/Widgets/Blog_Post.php:107
+#: ../includes/Elementor/Widgets/Explore_Agents.php:66
+#: ../includes/Elementor/Widgets/Explore_Property.php:139
+#: ../includes/Elementor/Widgets/Explore_Property.php:165
+#: ../includes/Elementor/Widgets/Price_Table.php:65
+#: ../includes/Elementor/Widgets/Property_Location.php:77
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:72
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:61
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:66
+#: ../includes/Elementor/Widgets2/Explore_Property.php:136
+#: ../includes/Elementor/Widgets2/Explore_Property.php:162
+#: ../includes/Elementor/Widgets2/Price_Table.php:58
+#: ../includes/Elementor/Widgets2/Property_Location.php:77
+msgid "2"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:64
+#: ../includes/Elementor/Widgets/Achievement.php:67
+#: ../includes/Elementor/Widgets/Blog_Post.php:108
+#: ../includes/Elementor/Widgets/Explore_Agents.php:67
+#: ../includes/Elementor/Widgets/Explore_Property.php:140
+#: ../includes/Elementor/Widgets/Explore_Property.php:166
+#: ../includes/Elementor/Widgets/Price_Table.php:66
+#: ../includes/Elementor/Widgets/Property_Location.php:78
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:73
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:62
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:67
+#: ../includes/Elementor/Widgets2/Explore_Property.php:137
+#: ../includes/Elementor/Widgets2/Explore_Property.php:163
+#: ../includes/Elementor/Widgets2/Price_Table.php:59
+#: ../includes/Elementor/Widgets2/Property_Location.php:78
+msgid "3"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:67
+#: ../includes/Elementor/Widgets/Achievement.php:68
+#: ../includes/Elementor/Widgets/Blog_Post.php:109
+#: ../includes/Elementor/Widgets/Explore_Agents.php:68
+#: ../includes/Elementor/Widgets/Explore_Property.php:141
+#: ../includes/Elementor/Widgets/Explore_Property.php:167
+#: ../includes/Elementor/Widgets/Price_Table.php:67
+#: ../includes/Elementor/Widgets/Property_Location.php:79
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:63
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:68
+#: ../includes/Elementor/Widgets2/Explore_Property.php:138
+#: ../includes/Elementor/Widgets2/Explore_Property.php:164
+#: ../includes/Elementor/Widgets2/Price_Table.php:60
+#: ../includes/Elementor/Widgets2/Property_Location.php:79
+msgid "4"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb_trail.php:114
+msgid "404"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:710
+msgid "404 Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:709
+msgid "404 Title"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:105
+msgid "5"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:70
+msgid "6"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:444
+msgid ""
+"A collection of settings most likely to be modified are located under this "
+"tab."
+msgstr ""
+
+#: ../includes/Widgets/Recent_Posts.php:19
+msgid "A Resido Posts Widget"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Achievement.php:21
+msgid "Achievement"
+msgstr ""
+
+#: ../includes/Widgets/Service_Sidebar_Menu.php:30
+msgid "Add a Visarzo Services custom menu to your sidebar."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:245
+msgid "Add Class"
+msgstr ""
+
+#: ../template-hooks.php:185
+msgid "Add Listing"
+msgstr "Agregar Propiedad"
+
+#: ../includes/Posttype/Agencies.php:20
+msgid "Add New Agencies"
+msgstr "Agregar Nueva Agencia"
+
+#: ../includes/Posttype/Agents.php:22
+msgid "Add New Agents"
+msgstr "Agregar Nuevos Agentes"
+
+#: ../includes/Posttype/Pricing.php:20
+msgid "Add New Pricing Plan"
+msgstr "Agregar Nuevo Plan de Servicios"
+
+#: ../resido-core.php:557
+msgid "Add to Compare"
+msgstr "Agregar para comparar"
+
+#: ../includes/Posttype/Agencies.php:71 ../includes/Posttype/Agents.php:71
+#: ../resido-core.php:377
+msgid "Address"
+msgstr "Dirección"
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:42
+msgid "Adds a breadcrumb trail to your sidebar"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:790
+msgid "adminKit::message is deprecated, use new adminkit_messages instead."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:18
+#: ../includes/Elementor/Widgets2/Advance_Search.php:18
+msgid "Advance Search"
+msgstr "Búsqueda Avanzada"
+
+#: ../includes/Posttype/Agencies.php:23
+msgid "Agencies"
+msgstr ""
+
+#: ../template-hooks.php:186 ../template-hooks.php:304
+#: ../template-hooks.php:368
+msgid "Agency"
+msgstr ""
+
+#: ../includes/Admin/Redux/Redux.php:196 ../redux.php:122
+msgid "Agency Archive Page Title"
+msgstr ""
+
+#: ../includes/Admin/Redux/Redux.php:187 ../redux.php:113
+msgid "Agency Breadcrumb"
+msgstr ""
+
+#: ../agency/agency.php:20 ../includes/Posttype/Agencies.php:60
+msgid "Agency Details"
+msgstr ""
+
+#: ../agency/agency.php:95
+msgid "Agency Info"
+msgstr ""
+
+#: ../includes/Posttype/Agencies.php:116
+msgid "Agency Information"
+msgstr ""
+
+#: ../template-hooks.php:317 ../template-hooks.php:386
+msgid "Agent"
+msgstr ""
+
+#: ../includes/Admin/Redux/Redux.php:153 ../redux.php:79
+msgid "Agent & Agency"
+msgstr ""
+
+#: ../includes/Admin/Metabox/Metabox.php:89
+msgid "Agent & Agency Contact"
+msgstr ""
+
+#: ../includes/Admin/Redux/Redux.php:171 ../redux.php:97
+msgid "Agent Archive Page Title"
+msgstr ""
+
+#: ../includes/Admin/Redux/Redux.php:162 ../redux.php:88
+msgid "Agent Breadcrumb"
+msgstr ""
+
+#: ../agency/single-agent.php:19
+msgid "Agent Details"
+msgstr ""
+
+#: ../agency/single-agent.php:99
+msgid "Agent Info"
+msgstr ""
+
+#: ../includes/Posttype/Agents.php:125
+msgid "Agent Information"
+msgstr ""
+
+#: ../agency/agency.php:106 ../includes/Posttype/Agents.php:25
+#: ../includes/Posttype/Agents.php:61
+msgid "Agents"
+msgstr ""
+
+#: ../redux.php:123
+msgid "All Agency"
+msgstr ""
+
+#: ../redux.php:98
+msgid "All Agents"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:322
+#: ../includes/Elementor/Widgets/Widget_Map.php:254
+#: ../includes/Elementor/Widgets2/Advance_Search.php:323
+#: ../includes/Elementor/Widgets2/Widget_Map.php:253 ../shortcode.php:125
+#: ../shortcode.php:308
+msgid "All Cities"
+msgstr "Ubicación"
+
+#: ../includes/Subscriptionlist.php:114
+msgid "All Gateways"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:497
+#: ../breadcrumb-navxt/class.bcn_admin.php:584
+msgid ""
+"Allow the referring page to influence the taxonomy selected for the "
+"hierarchy."
+msgstr ""
+
+#: ../combine-vc-ele-css/classes/class.add_control.php:19
+#: ../combine-vc-ele-css/classes/class.pb_redux.php:18
+msgid "Allows you to customize some settings for Combine VC Elementor CSS."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Widget_Map.php:302
+#: ../includes/Elementor/Widgets2/Widget_Map.php:305
+msgid "Amenities & Features"
+msgstr "Características y Comodidades"
+
+#: ../includes/Widgets/Resido_Calculation.php:131
+msgid "Amount With Down Payment"
+msgstr "Cantidad con anticipo"
+
+#: ../includes/Widgets/Resido_Calculation.php:135
+msgid "Amount Without Down Payment"
+msgstr "Cantidad sin anticipo"
+
+#: ../includes/Elementor/Settings/Header.php:17
+msgid "Animation"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Animation.php:38
+msgid "Animation Class"
+msgstr ""
+
+#: ../includes/Elementor/Settings/Animation.php:52
+msgid "Animation delay value ex:200s."
+msgstr ""
+
+#: ../includes/Elementor/Settings/Header.php:31
+#: ../includes/Elementor/Settings/Header.php:41
+msgid "Animation duration value ex:200s."
+msgstr ""
+
+#: ../includes/Subscriptionlist.php:157
+msgid "Apply"
+msgstr "Aplicar"
+
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:127
+msgid "Arrow Direction"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Post.php:139
+#: ../includes/Elementor/Widgets/Explore_Agents.php:98
+#: ../includes/Elementor/Widgets/Explore_Property.php:219
+#: ../includes/Elementor/Widgets/Home_Banner.php:226
+#: ../includes/Elementor/Widgets/Price_Table.php:91
+#: ../includes/Elementor/Widgets/Widget_Map.php:117
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:98
+#: ../includes/Elementor/Widgets2/Explore_Property.php:216
+#: ../includes/Elementor/Widgets2/Home_Banner.php:224
+#: ../includes/Elementor/Widgets2/Price_Table.php:84
+#: ../includes/Elementor/Widgets2/Widget_Map.php:110
+msgid "ASC"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:539
+msgid "Attachment Template"
+msgstr "Plantilla de adjuntos"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:540
+msgid "Attachment Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:536
+msgid "Attachments"
+msgstr "Adjuntos"
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:328
+msgid "Attempt back migration now."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:348
+msgid "Attempt to fix settings now."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Post.php:122
+#: ../includes/Elementor/Widgets/Explore_Agents.php:81
+#: ../includes/Elementor/Widgets/Explore_Property.php:202
+#: ../includes/Elementor/Widgets/Home_Banner.php:209
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:85
+#: ../includes/Elementor/Widgets/Widget_Map.php:100
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:81
+#: ../includes/Elementor/Widgets2/Explore_Property.php:199
+#: ../includes/Elementor/Widgets2/Home_Banner.php:207
+#: ../includes/Elementor/Widgets2/Widget_Map.php:93 ../template-hooks.php:35
+msgid "Author"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:674
+msgid "Author Archives"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:679
+msgid "Author Display Format"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:166
+msgid "Author Name "
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:196
+msgid "Author Name Color"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:684
+msgid "Author Root Page"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:677
+msgid "Author Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:678
+msgid "Author Template (Unlinked)"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:284
+#: ../includes/Elementor/Widgets/Home_Banner.php:265
+#: ../includes/Elementor/Widgets2/Advance_Search.php:284
+#: ../includes/Elementor/Widgets2/Home_Banner.php:263
+msgid "Background"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Home_Banner.php:529
+#: ../includes/Elementor/Widgets2/Home_Banner.php:529
+msgid "Bath: "
+msgstr "  Baños"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:310
+msgid "Bcc"
+msgstr "Bcc"
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb.php:226
+msgid "bcn_breadcrumb::type must be an array"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:138
+#: ../includes/Elementor/Widgets/Advance_Search.php:195
+#: ../includes/Elementor/Widgets2/Advance_Search.php:138
+#: ../includes/Elementor/Widgets2/Advance_Search.php:195 ../shortcode.php:289
+msgid "Bed Rooms"
+msgstr " Habitaciones"
+
+#: ../includes/Widgets/Resido_Listing_Search.php:68
+#: ../includes/Widgets/Resido_Listing_Search.php:378
+msgid "Bedrooms"
+msgstr " Habitaciones"
+
+#: ../includes/Elementor/Widgets/Home_Banner.php:523
+#: ../includes/Elementor/Widgets2/Home_Banner.php:523
+msgid "Beds: "
+msgstr " Habitaciones:"
+
+#: ../includes/Elementor/Widgets/Achievement.php:80
+#: ../includes/Elementor/Widgets/Home_Banner.php:124
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:120
+#: ../includes/Elementor/Widgets2/Home_Banner.php:122
+msgid "BG Image"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:470
+#: ../breadcrumb-navxt/class.bcn_admin.php:473
+msgid "Blog Breadcrumb"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Post.php:21
+msgid "Blog Post"
+msgstr "Publicación en nuestro Blog"
+
+#: ../template-hooks.php:189
+msgid "Bookmarked"
+msgstr "Destacados"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:340
+msgid "Border Radius"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Property_Location.php:152
+#: ../includes/Elementor/Widgets2/Property_Location.php:158
+msgid "Bottom Button"
+msgstr ""
+
+#: ../includes/Admin/Redux/Redux.php:29 ../includes/Admin/Redux/Redux.php:125
+#: ../redux.php:51
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:44
+msgid "Breadcrumb NavXT Network Settings"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:62
+msgid "Breadcrumb NavXT Settings"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:448
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: ../includes/Admin/Redux/Redux.php:35
+msgid "Breadcrumb Slider"
+msgstr ""
+
+#: ../page-option/page-option.php:44
+msgid "Breadcrumb Subtitle"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:301
+msgid "Breadcrumb trail in list form"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:295
+msgid "Breadcrumb trail with separators"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Home_Banner.php:236
+#: ../includes/Elementor/Widgets2/Home_Banner.php:234
+msgid "Button"
+msgstr "Botón"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:405
+msgid "Button  Hover Background Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:384
+msgid "Button Background Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Call_To_Action.php:137
+#: ../includes/Elementor/Widgets/Explore_Agents.php:158
+#: ../includes/Elementor/Widgets/Explore_Property.php:305
+#: ../includes/Elementor/Widgets/Property_Location.php:242
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:158
+#: ../includes/Elementor/Widgets2/Explore_Property.php:302
+#: ../includes/Elementor/Widgets2/Property_Location.php:248
+msgid "Button BG Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Call_To_Action.php:84
+#: ../includes/Elementor/Widgets/Download_App.php:123
+#: ../includes/Elementor/Widgets/Explore_Property.php:246
+#: ../includes/Elementor/Widgets/Property_Location.php:183
+#: ../includes/Elementor/Widgets/Widget_Map.php:134
+#: ../includes/Elementor/Widgets2/Explore_Property.php:243
+#: ../includes/Elementor/Widgets2/Property_Location.php:189
+#: ../includes/Elementor/Widgets2/Widget_Map.php:127
+msgid "Button Link"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:394
+msgid "Button Text Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:64
+msgid "Button Title"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Call_To_Action.php:125
+#: ../includes/Elementor/Widgets/Explore_Agents.php:146
+#: ../includes/Elementor/Widgets/Explore_Property.php:293
+#: ../includes/Elementor/Widgets/Property_Location.php:230
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:146
+#: ../includes/Elementor/Widgets2/Explore_Property.php:290
+#: ../includes/Elementor/Widgets2/Property_Location.php:236
+msgid "Button Title Color"
+msgstr ""
+
+#: ../includes/Widgets/Resido_Calculation.php:52
+msgid "Calculation Widget"
+msgstr ""
+
+#: ../agency/agency.php:183 ../agency/archive-agent.php:76
+msgid "Call:"
+msgstr "Llamar:"
+
+#: ../agency/agencies.php:72
+#: ../includes/Elementor/Widgets/Explore_Agents.php:267
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:268
+msgid "Call: "
+msgstr "Llamar:"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:505
+#: ../breadcrumb-navxt/class.bcn_admin.php:627
+msgid "Categories"
+msgstr "Categorias"
+
+#: ../includes/Elementor/Widgets/Blog_Post.php:88 ../template-hooks.php:34
+msgid "Category"
+msgstr "Categoría"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:630
+msgid "Category Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:631
+msgid "Category Template (Unlinked)"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:299
+msgid "Cc"
+msgstr ""
+
+#: ../includes/Posttype/Agencies.php:79 ../includes/Posttype/Agents.php:79
+msgid "Cell"
+msgstr "Celular"
+
+#: ../template-hooks.php:192
+msgid "Change Password"
+msgstr "Cambie su contraseña"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:110
+msgid "Checkbox"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:183
+msgid "Checkbox Item"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Property_Location.php:95
+#: ../includes/Elementor/Widgets/Property_Location.php:124
+#: ../includes/Elementor/Widgets2/Property_Location.php:95
+#: ../includes/Elementor/Widgets2/Property_Location.php:124
+#: ../resido-core.php:378
+msgid "City"
+msgstr "Ciudad"
+
+#: ../combine-vc-ele-css/classes/class.add_control.php:32
+#: ../combine-vc-ele-css/classes/class.pb_redux.php:24
+#: ../combine-vc-ele-css/classes/cvec_button/cvec_button/field_cvec_button.php:119
+msgid "Clear Cache"
+msgstr ""
+
+#: ../combine-vc-ele-css/classes/class.add_control.php:33
+msgid "Clear Cache."
+msgstr ""
+
+#: ../includes/Subscriptionlist.php:163
+msgid "Clear Filter"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:252
+#: ../includes/Elementor/Widgets/Advance_Search.php:273
+#: ../includes/Elementor/Widgets/Home_Banner.php:254
+#: ../includes/Elementor/Widgets2/Advance_Search.php:252
+#: ../includes/Elementor/Widgets2/Advance_Search.php:273
+#: ../includes/Elementor/Widgets2/Home_Banner.php:252
+#: ../includes/functions.php:225 ../includes/functions.php:282
+#: ../includes/functions.php:339
+msgid "Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Achievement.php:167
+#: ../includes/Elementor/Widgets/Call_To_Action.php:117
+#: ../includes/Elementor/Widgets/Explore_Agents.php:114
+#: ../includes/Elementor/Widgets/Explore_Property.php:285
+#: ../includes/Elementor/Widgets/Property_Location.php:222
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:188
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:229
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:114
+#: ../includes/Elementor/Widgets2/Explore_Property.php:282
+#: ../includes/Elementor/Widgets2/Property_Location.php:228
+msgid "Color Section"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Achievement.php:62
+#: ../includes/Elementor/Widgets/Call_To_Action.php:44
+#: ../includes/Elementor/Widgets/Explore_Property.php:125
+#: ../includes/Elementor/Widgets/Explore_Property.php:151
+#: ../includes/Elementor/Widgets/Price_Table.php:62
+#: ../includes/Elementor/Widgets/Property_Location.php:74
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:68
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:58
+#: ../includes/Elementor/Widgets2/Explore_Property.php:122
+#: ../includes/Elementor/Widgets2/Explore_Property.php:148
+#: ../includes/Elementor/Widgets2/Price_Table.php:55
+#: ../includes/Elementor/Widgets2/Property_Location.php:74
+msgid "Column"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:119
+msgid "Column Width"
+msgstr ""
+
+#: ../combine-vc-ele-css/classes/cvec_button/cvec_button/field_cvec_button.php:116
+#: ../combine-vc-ele-css/classes/cvec_button/extension_cvec_button.php:87
+msgid "Combine VC Elementor CSS Option"
+msgstr ""
+
+#: ../combine-vc-ele-css/classes/class.add_control.php:16
+#: ../combine-vc-ele-css/classes/class.pb_redux.php:16
+msgid "Combine VC Elementor CSS Options"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Post.php:126
+#: ../includes/Elementor/Widgets/Explore_Agents.php:85
+#: ../includes/Elementor/Widgets/Explore_Property.php:206
+#: ../includes/Elementor/Widgets/Home_Banner.php:213
+#: ../includes/Elementor/Widgets/Widget_Map.php:104
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:85
+#: ../includes/Elementor/Widgets2/Explore_Property.php:203
+#: ../includes/Elementor/Widgets2/Home_Banner.php:211
+#: ../includes/Elementor/Widgets2/Widget_Map.php:97
+msgid "Comment count"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Home_Banner.php:543
+#: ../includes/Elementor/Widgets2/Home_Banner.php:546
+msgid "Compare"
+msgstr "Compare"
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:338
+msgid "Complete now."
+msgstr "Complete ahora."
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:32
+msgid "Contact Form"
+msgstr "Formulario de contacto"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:48
+#: ../includes/Elementor/Widgets/Download_App.php:75
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:112
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:160
+#: ../includes/functions.php:302
+msgid "Content"
+msgstr "Contenido"
+
+#: ../includes/Sidebar_Generator.php:223
+msgid "CSS class"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Call_To_Action.php:20
+msgid "CTA Section"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:452
+msgid "Current Item"
+msgstr ""
+
+#: ../page-option/page-option.php:94
+msgid "Custom Logo"
+msgstr ""
+
+#: ../includes/Subscriptionlist.php:203
+msgid "Customer"
+msgstr "Cliente"
+
+#: ../template-hooks.php:184
+msgid "Dashboard"
+msgstr "Panel de control"
+
+#: ../includes/Elementor/Widgets/Home_Banner.php:137
+#: ../includes/Elementor/Widgets2/Home_Banner.php:135
+msgid "Data Overlay"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Post.php:120
+#: ../includes/Elementor/Widgets/Contact_Form.php:108
+#: ../includes/Elementor/Widgets/Explore_Agents.php:79
+#: ../includes/Elementor/Widgets/Explore_Property.php:200
+#: ../includes/Elementor/Widgets/Home_Banner.php:207
+#: ../includes/Elementor/Widgets/Widget_Map.php:98
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:79
+#: ../includes/Elementor/Widgets2/Explore_Property.php:197
+#: ../includes/Elementor/Widgets2/Home_Banner.php:205
+#: ../includes/Elementor/Widgets2/Widget_Map.php:91 ../template-hooks.php:39
+msgid "Date"
+msgstr "Fecha"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:705
+msgid "Date Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:706
+msgid "Date Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:506
+#: ../breadcrumb-navxt/class.bcn_admin.php:594
+msgid "Dates"
+msgstr "Fechas"
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb_trail.php:560
+msgctxt "day archive breadcrumb date format"
+msgid "d"
+msgstr "d"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:122
+msgid "Default"
+msgstr ""
+
+#: ../includes/Admin/Redux/Redux.php:78
+msgid "Default Collapsed section on the first load"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:751
+msgid "Default settings successfully installed."
+msgstr ""
+
+#: ../includes/Elementor/Settings/Animation.php:48
+#: ../includes/Elementor/Settings/Header.php:38
+msgid "Delay Time"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:713
+msgid "Deprecated"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Post.php:138
+#: ../includes/Elementor/Widgets/Explore_Agents.php:97
+#: ../includes/Elementor/Widgets/Explore_Property.php:218
+#: ../includes/Elementor/Widgets/Home_Banner.php:225
+#: ../includes/Elementor/Widgets/Price_Table.php:90
+#: ../includes/Elementor/Widgets/Widget_Map.php:116
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:97
+#: ../includes/Elementor/Widgets2/Explore_Property.php:215
+#: ../includes/Elementor/Widgets2/Home_Banner.php:223
+#: ../includes/Elementor/Widgets2/Price_Table.php:83
+#: ../includes/Elementor/Widgets2/Widget_Map.php:109
+msgid "DESC"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Achievement.php:101
+msgid "Description"
+msgstr "Descripción"
+
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:94
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:175
+msgid "Designation"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:208
+msgid "Designation Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Widget_Map.php:66
+#: ../includes/Elementor/Widgets2/Widget_Map.php:59
+msgid "Disable Map"
+msgstr "Desactivar Mapa"
+
+#: ../includes/Widgets/Recent_Posts.php:158
+#: ../includes/Widgets/Resido_Featured_Listing.php:183
+msgid "Display post date?"
+msgstr "Mostrar fecha de publicación?"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:679
+msgid ""
+"display_name uses the name specified in \"Display name publicly as\" under "
+"the user profile the others correspond to options in the user profile."
+msgstr ""
+
+#: ../shortcode.php:402
+msgid "Don't have an account"
+msgstr "No posee una cuenta "
+
+#: ../includes/Widgets/Resido_Calculation.php:208
+msgid "Down Payment:"
+msgstr "Anticipo:"
+
+#: ../includes/Elementor/Widgets/Download_App.php:116
+msgid "Download"
+msgstr "Descargar"
+
+#: ../includes/Elementor/Widgets/Download_App.php:22
+msgid "Download App Section"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:109
+msgid "Dropdown"
+msgstr "Desplegar"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:160
+msgid "Dropdown Item"
+msgstr "Desplegar items"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:162
+msgid "Dropdown Item should be line break"
+msgstr ""
+
+#: ../includes/Posttype/Pricing.php:81
+msgid "Duration"
+msgstr "Duración"
+
+#: ../includes/Elementor/Settings/Header.php:28
+msgid "Duration Time"
+msgstr "Tiempo de duración"
+
+#: ../includes/Posttype/Agencies.php:21
+msgid "Edit Agencies"
+msgstr ""
+
+#: ../includes/Posttype/Agents.php:23
+msgid "Edit Agents"
+msgstr ""
+
+#: ../includes/Widgets/Service_Sidebar_Menu.php:143
+msgid "Edit Menu"
+msgstr "Editar Menú"
+
+#: ../combine-vc-ele-css/classes/class.add_control.php:36
+msgid "Edit Pages"
+msgstr ""
+
+#: ../includes/Posttype/Pricing.php:21
+msgid "Edit Pricing Plan"
+msgstr "Editar Planes"
+
+#: ../resido-core.php:201
+msgid "Elementor"
+msgstr ""
+
+#: ../resido-core.php:200 ../resido-core.php:224
+msgid "Elementor Resido"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:103
+#: ../includes/Elementor/Widgets/Contact_Form.php:265
+#: ../includes/Posttype/Agencies.php:87 ../includes/Posttype/Agents.php:87
+#: ../includes/Subscriptionlist.php:202
+msgid "Email"
+msgstr "Correo"
+
+#: ../includes/Widgets/Resido_Listing_Search.php:65
+msgid "Enable Bedrooms"
+msgstr "Activar Habitaciones"
+
+#: ../page-option/page-option.php:32
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Widget_Map.php:65
+#: ../includes/Elementor/Widgets2/Widget_Map.php:58
+msgid "Enable Map"
+msgstr "Activar mapa"
+
+#: ../includes/Subscriptionlist.php:135
+msgid "End Date:"
+msgstr "Fecha de terminación"
+
+#: ../includes/Subscriptionlist.php:208
+msgid "Expire Date"
+msgstr "Fecha de vencimiento"
+
+#: ../template-hooks.php:85
+msgid "Expired"
+msgstr "Vencido"
+
+#: ../includes/Elementor/Widgets/Explore_Agents.php:17
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:17
+msgid "Explore Agents"
+msgstr "Explorar agentes"
+
+#: ../agency/agency.php:205
+msgid "Explore More Agents"
+msgstr "Explorar mas agentes"
+
+#: ../agency/agency.php:334 ../agency/single-agent.php:281
+msgid "Explore More Property"
+msgstr "Explore mas propiedades"
+
+#: ../includes/Elementor/Widgets/Explore_Property.php:19
+#: ../includes/Elementor/Widgets2/Explore_Property.php:19
+msgid "Explore Property"
+msgstr "Explore la propiedad"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:362
+msgid "Export"
+msgstr ""
+
+#: ../resido-core.php:381
+msgid "Facebook"
+msgstr ""
+
+#: ../template-hooks.php:36
+msgid "Featured"
+msgstr "Exclusivo"
+
+#: ../includes/Admin/Redux/Redux.php:50
+msgid "Featured Image as thumb"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Explore_Property.php:114
+#: ../includes/Elementor/Widgets2/Explore_Property.php:111
+msgid "Featured Listings"
+msgstr "Publicaciones Exclusivas"
+
+#: ../includes/Widgets/Resido_Featured_Listing.php:52
+msgid "Featured Property"
+msgstr "Propiedad Exclusiva"
+
+#: ../includes/Widgets/Resido_Listing_Search.php:92
+#: ../includes/Widgets/Resido_Listing_Search.php:443
+msgid "Features"
+msgstr "Características"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:322
+msgid "Field"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:329
+msgid "Field Background Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:75
+msgid "Field Id"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:98
+msgid "Field Type"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:219
+#: ../includes/Elementor/Widgets/Contact_Form.php:253
+#: ../includes/Elementor/Widgets2/Advance_Search.php:219
+msgid "Fields"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:112
+msgid "File"
+msgstr "Archivo"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:186
+#: ../includes/Elementor/Widgets/Contact_Form.php:208
+msgid ""
+"First\n"
+"\t\t\t\t\tSecound"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:164
+msgid ""
+"First\n"
+"\t\t\t\tSecound"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:348
+msgid "Fix now."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:294
+msgid ""
+"For the settings on this page to take effect, you must either use the "
+"included Breadcrumb NavXT widget, or place either of the code sections below "
+"into your theme."
+msgstr ""
+
+#: ../shortcode.php:398
+msgid "Forgot password?"
+msgstr "Olvidó su contraseña?"
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:31
+#: ../includes/Elementor/Widgets/Advance_Search.php:235
+#: ../includes/Elementor/Widgets2/Advance_Search.php:31
+#: ../includes/Elementor/Widgets2/Advance_Search.php:235
+msgid "Form"
+msgstr "Formulario"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:55
+msgid "Form Title"
+msgstr "Título de formulario"
+
+#: ../page-option/page-option.php:51
+msgid "Full Width"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:290
+#: ../breadcrumb-navxt/class.bcn_admin.php:444
+#: ../breadcrumb-navxt/class.bcn_admin.php:445
+#: ../includes/Elementor/Widgets/Achievement.php:38
+#: ../includes/Elementor/Widgets/Blog_Post.php:63
+#: ../includes/Elementor/Widgets/Call_To_Action.php:37
+#: ../includes/Elementor/Widgets/Download_App.php:53
+#: ../includes/Elementor/Widgets/Explore_Agents.php:30
+#: ../includes/Elementor/Widgets/Explore_Property.php:52
+#: ../includes/Elementor/Widgets/Home_Banner.php:46
+#: ../includes/Elementor/Widgets/Price_Table.php:38
+#: ../includes/Elementor/Widgets/Property_Location.php:50
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:44
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:33
+#: ../includes/Elementor/Widgets/Widget_Map.php:55
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:30
+#: ../includes/Elementor/Widgets2/Explore_Property.php:52
+#: ../includes/Elementor/Widgets2/Home_Banner.php:44
+#: ../includes/Elementor/Widgets2/Price_Table.php:31
+#: ../includes/Elementor/Widgets2/Property_Location.php:50
+#: ../includes/Elementor/Widgets2/Widget_Map.php:48
+msgid "General"
+msgstr "General"
+
+#: ../shortcode.php:376
+msgid "Get New Password"
+msgstr "Obtenga nueva contraseña"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:283
+msgid "Giving Back"
+msgstr ""
+
+#: ../shortcode.php:78
+msgid "Go & Search"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:396
+msgid "Go to the guide on trimming breadcrumb title lengths with CSS"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Explore_Property.php:82
+#: ../includes/Elementor/Widgets2/Explore_Property.php:79
+msgid "Grid"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Achievement.php:45
+#: ../includes/Elementor/Widgets/Blog_Post.php:70
+#: ../includes/Elementor/Widgets/Call_To_Action.php:58
+#: ../includes/Elementor/Widgets/Download_App.php:60
+#: ../includes/Elementor/Widgets/Explore_Agents.php:37
+#: ../includes/Elementor/Widgets/Explore_Property.php:59
+#: ../includes/Elementor/Widgets/Home_Banner.php:108
+#: ../includes/Elementor/Widgets/Price_Table.php:45
+#: ../includes/Elementor/Widgets/Property_Location.php:57
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:51
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:40
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:37
+#: ../includes/Elementor/Widgets2/Explore_Property.php:59
+#: ../includes/Elementor/Widgets2/Home_Banner.php:106
+#: ../includes/Elementor/Widgets2/Price_Table.php:38
+#: ../includes/Elementor/Widgets2/Property_Location.php:57
+msgid "Header"
+msgstr ""
+
+#: ../includes/functions.php:188
+msgid "Heading"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Property_Location.php:155
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:141
+#: ../includes/Elementor/Widgets2/Property_Location.php:161
+msgid "Hide"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:132
+msgid "Hide the trail on the front page"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Home_Banner.php:90
+#: ../includes/Elementor/Widgets/Home_Banner.php:116
+#: ../includes/Elementor/Widgets2/Home_Banner.php:88
+#: ../includes/Elementor/Widgets2/Home_Banner.php:114
+msgid "Highlighted Text"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Home_Banner.php:18
+#: ../includes/Elementor/Widgets2/Home_Banner.php:16
+msgid "Home Banner"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:461
+#: ../breadcrumb-navxt/class.bcn_admin.php:464
+msgid "Home Breadcrumb"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:465
+msgid "Home Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:466
+msgid "Home Template (Unlinked)"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Call_To_Action.php:86
+#: ../includes/Elementor/Widgets/Download_App.php:125
+#: ../includes/Elementor/Widgets/Explore_Property.php:248
+#: ../includes/Elementor/Widgets/Property_Location.php:185
+#: ../includes/Elementor/Widgets/Widget_Map.php:136
+#: ../includes/Elementor/Widgets2/Explore_Property.php:245
+#: ../includes/Elementor/Widgets2/Property_Location.php:191
+#: ../includes/Elementor/Widgets2/Widget_Map.php:129
+msgid "https://your-link.com"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:82
+#: ../includes/Elementor/Widgets/Download_App.php:98
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:84
+#: ../includes/Elementor/Widgets2/Advance_Search.php:82
+msgid "Icon"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:92
+msgid "Icon Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Post.php:121
+#: ../includes/Elementor/Widgets/Explore_Agents.php:80
+#: ../includes/Elementor/Widgets/Explore_Property.php:201
+#: ../includes/Elementor/Widgets/Home_Banner.php:208
+#: ../includes/Elementor/Widgets/Widget_Map.php:99
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:80
+#: ../includes/Elementor/Widgets2/Explore_Property.php:198
+#: ../includes/Elementor/Widgets2/Home_Banner.php:206
+#: ../includes/Elementor/Widgets2/Widget_Map.php:92
+#: ../includes/Subscriptionlist.php:201
+msgid "ID"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:134
+msgid "Ignore breadcrumb cache"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Download_App.php:84
+#: ../includes/Elementor/Widgets2/Property_Location.php:142
+msgid "Image"
+msgstr "Imagen"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:361
+msgid "Import"
+msgstr "Importar"
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:858
+msgid ""
+"Import settings from a XML file, export the current settings to a XML file, "
+"or reset to the default settings."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:333
+msgid "Import/Export/Reset"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:665
+msgid "Importing settings from file failed."
+msgstr ""
+
+#: ../shortcode.php:394
+msgid "In"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:456
+msgid ""
+"Indicates that the user is on a page other than the first of a paginated "
+"archive or post."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:63
+#: ../includes/Elementor/Widgets2/Advance_Search.php:63
+msgid "Input"
+msgstr "Ingresar"
+
+#: ../resido-core.php:384
+msgid "Instagram"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:130
+msgid "Insufficient privileges to proceed."
+msgstr ""
+
+#: ../includes/Widgets/Resido_Calculation.php:139
+msgid "Interest Amount"
+msgstr "Cantidad de Interés"
+
+#: ../includes/Widgets/Resido_Calculation.php:216
+#: ../includes/Widgets/Resido_Calculation.php:220
+msgid "Interest Rate:"
+msgstr "Tasa de Interés"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:464
+msgid "Invalid field Input"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:75
+msgid "item"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Explore_Agents.php:134
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:134
+msgid "Item Button BG Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Explore_Agents.php:122
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:122
+msgid "Item Button Title Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Download_App.php:155
+#: ../includes/Elementor/Widgets/Download_App.php:159
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:178
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:182
+msgid "Item content. Click the edit button to change this text."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Achievement.php:154
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:217
+msgid "Item Description"
+msgstr "Descripción del Elemento"
+
+#: ../includes/Elementor/Widgets/Achievement.php:187
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:249
+msgid "Item Description Color"
+msgstr "Descripción del Color"
+
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:208
+msgid "Item Title"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Achievement.php:145
+msgid "Item Title "
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Achievement.php:175
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:237
+msgid "Item Title Color"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Widget_Map.php:244
+#: ../includes/Elementor/Widgets2/Widget_Map.php:244
+msgid "Keyword"
+msgstr "Palabra Clave"
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:112
+#: ../includes/Elementor/Widgets/Advance_Search.php:224
+#: ../includes/Elementor/Widgets2/Advance_Search.php:112
+#: ../includes/Elementor/Widgets2/Advance_Search.php:224 ../shortcode.php:92
+#: ../shortcode.php:228
+msgid "Keywords..."
+msgstr "Palabras Claves"
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:73
+#: ../includes/Elementor/Widgets/Call_To_Action.php:75
+#: ../includes/Elementor/Widgets/Contact_Form.php:82
+#: ../includes/Elementor/Widgets/Download_App.php:106
+#: ../includes/Elementor/Widgets/Explore_Property.php:227
+#: ../includes/Elementor/Widgets/Price_Table.php:99
+#: ../includes/Elementor/Widgets/Property_Location.php:164
+#: ../includes/Elementor/Widgets/Widget_Map.php:125
+#: ../includes/Elementor/Widgets2/Advance_Search.php:73
+#: ../includes/Elementor/Widgets2/Explore_Property.php:224
+#: ../includes/Elementor/Widgets2/Price_Table.php:92
+#: ../includes/Elementor/Widgets2/Property_Location.php:170
+#: ../includes/Elementor/Widgets2/Widget_Map.php:118
+msgid "Label"
+msgstr "Etiqueta"
+
+#: ../includes/Widgets/Resido_Calculation.php:21
+#: ../includes/Widgets/Resido_Featured_Listing.php:21
+msgid "Latest CPT's & Posts."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Explore_Property.php:79
+#: ../includes/Elementor/Widgets/Home_Banner.php:53
+#: ../includes/Elementor/Widgets2/Explore_Property.php:76
+#: ../includes/Elementor/Widgets2/Home_Banner.php:51
+msgid "Layout"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Call_To_Action.php:47
+#: ../includes/Elementor/Widgets/Home_Banner.php:56
+#: ../includes/Elementor/Widgets2/Home_Banner.php:54
+msgid "Layout 1"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Call_To_Action.php:48
+#: ../includes/Elementor/Widgets/Home_Banner.php:57
+#: ../includes/Elementor/Widgets2/Home_Banner.php:55
+msgid "Layout 2"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Home_Banner.php:58
+#: ../includes/Elementor/Widgets2/Home_Banner.php:56
+msgid "Layout 3"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Home_Banner.php:59
+#: ../includes/Elementor/Widgets2/Home_Banner.php:57
+msgid "Layout 4"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Home_Banner.php:60
+#: ../includes/Elementor/Widgets2/Home_Banner.php:58
+msgid "Layout 5"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Home_Banner.php:61
+#: ../includes/Elementor/Widgets2/Home_Banner.php:59
+msgid "Layout 6"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:722
+#, php-format
+msgid ""
+"Limit the length of the breadcrumb title. (Deprecated, %1$suse CSS "
+"instead%2$s)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:455
+msgid "Link Current Item"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:128
+msgid "Link the breadcrumbs"
+msgstr ""
+
+#: ../resido-core.php:383
+msgid "Linkedin"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:119
+#: ../includes/Elementor/Widgets/Explore_Property.php:83
+#: ../includes/Elementor/Widgets2/Explore_Property.php:80
+msgid "List"
+msgstr "Lista"
+
+#: ../includes/Admin/Redux/Redux.php:116 ../redux.php:42
+msgid "Listing Archive"
+msgstr "Archivo de Publicaciones"
+
+#: ../includes/Posttype/Pricing.php:111
+msgid "Listing Expire"
+msgstr "Publicación vence"
+
+#: ../includes/Subscriptionlist.php:206
+msgid "Listing Limit"
+msgstr "Límite de Publicaciones"
+
+#: ../includes/Admin/Redux/Redux.php:20 ../redux.php:18
+msgid "Listing Single"
+msgstr ""
+
+#: ../redux.php:27
+msgid "Listing Single Layout"
+msgstr ""
+
+#: ../includes/Posttype/Pricing.php:88
+msgid "Listing Submission Limit"
+msgstr "Límite de publicaciones"
+
+#: ../redux.php:107
+msgid "Lists of our all expert agents"
+msgstr "Lista de todos nuestros expertos agentes"
+
+#: ../redux.php:132
+msgid "Lists of our all Popular agencies"
+msgstr "Lista de todas nuestras agencias populares"
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:338
+msgid "Load default settings now."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Widget_Map.php:373
+#: ../includes/Elementor/Widgets2/Widget_Map.php:385
+msgid "Load More"
+msgstr "Cargar Mas"
+
+#: ../includes/Widgets/Resido_Calculation.php:212
+msgid "Loan Term:"
+msgstr "Plazo del Préstamo:"
+
+#: ../includes/Elementor/Widgets/Property_Location.php:91
+#: ../includes/Elementor/Widgets2/Property_Location.php:91
+msgid "Location Type"
+msgstr "Tipo de ubicación"
+
+#: ../includes/Widgets/Resido_Listing_Search.php:74
+msgid "Locations"
+msgstr "Ubicación"
+
+#: ../shortcode.php:394
+msgid "Log"
+msgstr "Ingreso"
+
+#: ../template-hooks.php:195
+msgid "Log Out"
+msgstr "Salir"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:480
+msgid "Main Site Breadcrumb"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:481
+msgid "Main Site Home Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:482
+msgid "Main Site Home Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:477
+msgid "Mainsite Breadcrumb"
+msgstr ""
+
+#: ../page-option/page-option.php:102
+msgid "Manage Gallery Meta Fields"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Widget_Map.php:62
+#: ../includes/Elementor/Widgets2/Widget_Map.php:55
+msgid "Map From Api"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Widget_Map.php:21
+#: ../includes/Elementor/Widgets2/Widget_Map.php:18
+msgid "Map Widget"
+msgstr "Widget de Mapa"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:352
+msgid "Margin"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:133
+#: ../includes/Elementor/Widgets2/Advance_Search.php:133 ../shortcode.php:251
+msgid "Max Price"
+msgstr "Precio máximo"
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:171
+#: ../includes/Elementor/Widgets2/Advance_Search.php:171
+msgid "Max Price List"
+msgstr "Lista de precio máximo"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:727
+msgid "Max Title Length: "
+msgstr "Extensión máxima del título"
+
+#: ../resido-core.php:296
+msgid "Mega menu"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Post.php:127
+#: ../includes/Elementor/Widgets/Explore_Agents.php:86
+#: ../includes/Elementor/Widgets/Explore_Property.php:207
+#: ../includes/Elementor/Widgets/Home_Banner.php:214
+#: ../includes/Elementor/Widgets/Widget_Map.php:105
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:86
+#: ../includes/Elementor/Widgets2/Explore_Property.php:204
+#: ../includes/Elementor/Widgets2/Home_Banner.php:212
+#: ../includes/Elementor/Widgets2/Widget_Map.php:98
+msgid "Menu order"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:316
+msgid "Migrate now."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:316
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:328
+msgid "Migrate the settings now."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:132
+#: ../includes/Elementor/Widgets/Advance_Search.php:342
+#: ../includes/Elementor/Widgets/Advance_Search.php:346
+#: ../includes/Elementor/Widgets2/Advance_Search.php:132
+#: ../includes/Elementor/Widgets2/Advance_Search.php:343
+#: ../includes/Elementor/Widgets2/Advance_Search.php:347 ../shortcode.php:237
+msgid "Min Price"
+msgstr "Precio Mínimo"
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:147
+#: ../includes/Elementor/Widgets2/Advance_Search.php:147
+msgid "Min Price List"
+msgstr "Lista de precio mínimo"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:673
+#: ../breadcrumb-navxt/class.bcn_admin.php:702
+msgid "Miscellaneous"
+msgstr "Varios"
+
+#: ../includes/Elementor/Widgets/Blog_Post.php:124
+#: ../includes/Elementor/Widgets/Explore_Agents.php:83
+#: ../includes/Elementor/Widgets/Explore_Property.php:204
+#: ../includes/Elementor/Widgets/Home_Banner.php:211
+#: ../includes/Elementor/Widgets/Widget_Map.php:102
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:83
+#: ../includes/Elementor/Widgets2/Explore_Property.php:201
+#: ../includes/Elementor/Widgets2/Home_Banner.php:209
+#: ../includes/Elementor/Widgets2/Widget_Map.php:95
+msgid "Modified"
+msgstr "Modificado"
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb_trail.php:588
+msgctxt "month archive breadcrumb date format"
+msgid "F"
+msgstr "F"
+
+#: ../includes/Widgets/Resido_Calculation.php:127
+msgid "Monthly Payment"
+msgstr "Pago Mensual"
+
+#: ../template-hooks.php:188
+msgid "My Listing"
+msgstr "Mis publicaciones"
+
+#: ../template-hooks.php:187
+msgid "My Profile"
+msgstr "Mi perfil"
+
+#: ../includes/Sidebar_Generator.php:222
+msgid "Name"
+msgstr "Nombre"
+
+#: ../includes/Subscriptionlist.php:370
+msgid "Never Expire"
+msgstr "Nunca vence"
+
+#: ../includes/Posttype/Agencies.php:22
+msgid "New Agencies"
+msgstr ""
+
+#: ../includes/Posttype/Agents.php:24
+msgid "New Agents"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:282
+#, php-format
+msgid "New message from \"%s\""
+msgstr "Nuevo mensaje de \"%s\""
+
+#: ../includes/Posttype/Pricing.php:22
+msgid "New Pricing Plan"
+msgstr "Nuevo plan de pago"
+
+#: ../includes/Elementor/Widgets/Explore_Property.php:105
+#: ../includes/Elementor/Widgets/Explore_Property.php:117
+#: ../includes/Elementor/Widgets2/Explore_Property.php:102
+#: ../includes/Elementor/Widgets2/Explore_Property.php:114
+msgid "No"
+msgstr "No"
+
+#: ../includes/Elementor/Settings/Header.php:102 ../resido-core.php:271
+msgid "No contect From 7 form found"
+msgstr ""
+
+#: ../includes/Widgets/Service_Sidebar_Menu.php:109
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: ../includes/Admin/Library/Library.php:33
+msgid "No Pages Found!"
+msgstr "Página no encontrada!"
+
+#: ../includes/Posttype/Agencies.php:26 ../includes/Posttype/Agents.php:28
+#: ../includes/Posttype/Pricing.php:26
+msgid "No products found"
+msgstr "No se encontraron productos"
+
+#: ../includes/Posttype/Agencies.php:27 ../includes/Posttype/Agents.php:29
+#: ../includes/Posttype/Pricing.php:27
+msgid "No products found in the Trash"
+msgstr "No se encontraron productos en la papelera"
+
+#: ../includes/Sidebar_Generator.php:245
+msgid "No Sidebars defined"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:107
+msgid "Number"
+msgstr "Número"
+
+#: ../includes/Elementor/Settings/Header.php:81
+msgid "Number Of Coloumns"
+msgstr "Número de Columnas"
+
+#: ../includes/Elementor/Widgets/Blog_Post.php:103
+#: ../includes/Elementor/Widgets/Explore_Agents.php:62
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:62
+msgid "Number of Column"
+msgstr "Número de Columna"
+
+#: ../includes/Elementor/Widgets/Blog_Post.php:95
+#: ../includes/Elementor/Widgets/Explore_Agents.php:54
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:54
+msgid "Number of Post"
+msgstr "Número de publicaciones "
+
+#: ../includes/Widgets/Recent_Posts.php:153
+#: ../includes/Widgets/Resido_Featured_Listing.php:178
+msgid "Number of posts to show:"
+msgstr "Número de entradas para mostrar:"
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:347
+msgid "One or more of your plugin settings are invalid."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Post.php:134
+#: ../includes/Elementor/Widgets/Explore_Agents.php:93
+#: ../includes/Elementor/Widgets/Explore_Property.php:214
+#: ../includes/Elementor/Widgets/Home_Banner.php:221
+#: ../includes/Elementor/Widgets/Price_Table.php:86
+#: ../includes/Elementor/Widgets/Widget_Map.php:112
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:93
+#: ../includes/Elementor/Widgets2/Explore_Property.php:211
+#: ../includes/Elementor/Widgets2/Home_Banner.php:219
+#: ../includes/Elementor/Widgets2/Price_Table.php:79
+#: ../includes/Elementor/Widgets2/Widget_Map.php:105
+msgid "Order"
+msgstr "Ordenar"
+
+#: ../includes/Elementor/Widgets/Blog_Post.php:116
+#: ../includes/Elementor/Widgets/Explore_Agents.php:75
+#: ../includes/Elementor/Widgets/Explore_Property.php:196
+#: ../includes/Elementor/Widgets/Home_Banner.php:203
+#: ../includes/Elementor/Widgets/Widget_Map.php:94
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:75
+#: ../includes/Elementor/Widgets2/Explore_Property.php:193
+#: ../includes/Elementor/Widgets2/Home_Banner.php:201
+#: ../includes/Elementor/Widgets2/Widget_Map.php:87
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:117
+msgid "Output trail as:"
+msgstr ""
+
+#: ../includes/Subscriptionlist.php:205 ../template-hooks.php:38
+msgid "Package"
+msgstr "Paquete"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:364
+#: ../includes/Elementor/Widgets/Home_Banner.php:276
+#: ../includes/Elementor/Widgets2/Home_Banner.php:274
+msgid "Padding"
+msgstr ""
+
+#: ../page-option/page-option.php:85
+msgid "Page Design Settings"
+msgstr ""
+
+#: ../includes/Admin/Metabox/Metabox.php:51
+msgid "Page Settings"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:529
+msgid "Page Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:530
+msgid "Page Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:456
+msgctxt ""
+"Paged as in when on an archive or post that is split into multiple pages"
+msgid "Paged Breadcrumb"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:457
+msgctxt ""
+"Paged as in when on an archive or post that is split into multiple pages"
+msgid "Paged Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:526
+msgid "Pages"
+msgstr "Páginas"
+
+#: ../includes/Subscriptionlist.php:204
+msgid "Payment Status"
+msgstr "Estado del pago"
+
+#: ../resido-core.php:376
+msgid "Phone"
+msgstr "Teléfono"
+
+#: ../resido-core.php:225
+msgid "PHP"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:473
+msgid "Place the blog breadcrumb in the trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:464
+msgid "Place the home breadcrumb in the trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:480
+msgid "Place the main site home breadcrumb in the trail in an multisite setup."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:456
+msgid "Place the page number breadcrumb in the trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:448
+msgid "Placed in between each breadcrumb."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:100
+#: ../includes/Elementor/Widgets2/Advance_Search.php:100
+msgid "Placeholder"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:90
+msgid "Placeholder Text"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:122
+msgid "Plain"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:560
+#, php-format
+msgid "Please include this message in your %1$sbug report%2$s."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:644
+msgid "Post Format Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:645
+msgid "Post Format Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:641
+msgid "Post Formats"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:501
+msgid "Post Hierarchy"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:495
+msgid "Post Hierarchy Display"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:497
+msgid "Post Hierarchy Referer Influence"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:496
+msgid "Post Hierarchy Use Parent First"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:509
+#: ../breadcrumb-navxt/class.bcn_admin.php:593
+msgid "Post Parent"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:493
+msgid "Post Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:494
+msgid "Post Template (Unlinked)"
+msgstr ""
+
+#: ../includes/Posttype/Agencies.php:17
+msgctxt "Post type general name"
+msgid "Agencies"
+msgstr ""
+
+#: ../includes/Posttype/Agents.php:19
+msgctxt "Post type general name"
+msgid "Agents"
+msgstr ""
+
+#: ../includes/Posttype/Pricing.php:17
+msgctxt "Post type general name"
+msgid "Pricing Plan"
+msgstr "Planes y Precios"
+
+#: ../includes/Posttype/Agencies.php:18
+msgctxt "Post type singular name"
+msgid "Agencies"
+msgstr "Agencias"
+
+#: ../includes/Posttype/Agents.php:20
+msgctxt "Post type singular name"
+msgid "Agents"
+msgstr "Agentes"
+
+#: ../includes/Posttype/Pricing.php:18
+msgctxt "Post type singular name"
+msgid "Pricing Plan"
+msgstr "Planes y Precios"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:489
+msgid "Post Types"
+msgstr "Tipos de Publicaciones"
+
+#: ../page-option/page-option.php:23
+msgid "Post Widget Settings"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:490
+msgid "Posts"
+msgstr "Publicaciones"
+
+#: ../includes/Elementor/Widgets/Explore_Property.php:187
+#: ../includes/Elementor/Widgets/Home_Banner.php:194
+#: ../includes/Elementor/Widgets/Price_Table.php:77
+#: ../includes/Elementor/Widgets/Widget_Map.php:85
+#: ../includes/Elementor/Widgets2/Explore_Property.php:184
+#: ../includes/Elementor/Widgets2/Home_Banner.php:192
+#: ../includes/Elementor/Widgets2/Price_Table.php:70
+#: ../includes/Elementor/Widgets2/Widget_Map.php:78
+msgid "Posts Per Page"
+msgstr "Publicaciones por Página"
+
+#: ../includes/Widgets/Widget_Selector.php:19
+msgid "Posts Widget Selector From Template"
+msgstr ""
+
+#: ../includes/Posttype/Pricing.php:75
+msgid "Price"
+msgstr "Precio"
+
+#: ../includes/Elementor/Widgets/Price_Table.php:21
+#: ../includes/Elementor/Widgets2/Price_Table.php:18
+msgid "Price Table"
+msgstr "Tabla de precios"
+
+#: ../includes/Posttype/Pricing.php:96
+msgid "Pricing Custom URL"
+msgstr ""
+
+#: ../includes/Posttype/Pricing.php:23 ../includes/Posttype/Pricing.php:50
+msgid "Pricing Plan"
+msgstr "Planes"
+
+#: ../includes/Posttype/Pricing.php:61
+msgid "Pricing Type"
+msgstr "Tipo de Plan"
+
+#: ../agency/agencies.php:53 ../agency/agency.php:69 ../agency/agency.php:169
+#: ../agency/archive-agent.php:55 ../agency/single-agent.php:71
+#: ../includes/Elementor/Widgets/Explore_Agents.php:252
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:253
+msgid "Properties"
+msgstr "Propiedades"
+
+#: ../includes/Elementor/Widgets/Property_Location.php:350
+#: ../includes/Elementor/Widgets2/Property_Location.php:362
+msgid "properties"
+msgstr "propiedades"
+
+#: ../agency/agencies.php:55 ../agency/agency.php:71 ../agency/agency.php:109
+#: ../agency/agency.php:171 ../agency/archive-agent.php:57
+#: ../agency/single-agent.php:73
+#: ../includes/Elementor/Widgets/Explore_Agents.php:254
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:255
+msgid "Property"
+msgstr "Propiedad"
+
+#: ../includes/Elementor/Widgets/Property_Location.php:348
+#: ../includes/Elementor/Widgets2/Property_Location.php:360
+msgid "property"
+msgstr "propiedad"
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:136
+#: ../includes/Elementor/Widgets2/Advance_Search.php:136
+msgid "Property Feature"
+msgstr "Cracterísticas de la propiedad"
+
+#: ../includes/Admin/Redux/Redux.php:135 ../includes/Admin/Redux/Redux.php:172
+#: ../includes/Admin/Redux/Redux.php:197 ../redux.php:61
+msgid "Property List"
+msgstr "Lista de Propiedades"
+
+#: ../includes/Admin/Redux/Redux.php:144 ../includes/Admin/Redux/Redux.php:181
+#: ../includes/Admin/Redux/Redux.php:206 ../redux.php:70
+msgid "Property List With Sidebar"
+msgstr "Listado de Propiedades Publicadas"
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:137
+#: ../includes/Elementor/Widgets/Property_Location.php:18
+#: ../includes/Elementor/Widgets2/Advance_Search.php:137
+#: ../includes/Elementor/Widgets2/Property_Location.php:18 ../shortcode.php:306
+msgid "Property Location"
+msgstr "Ubicación de la propiedad"
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:135
+#: ../includes/Elementor/Widgets/Explore_Property.php:177
+#: ../includes/Elementor/Widgets/Home_Banner.php:184
+#: ../includes/Elementor/Widgets/Widget_Map.php:75
+#: ../includes/Elementor/Widgets2/Advance_Search.php:135
+#: ../includes/Elementor/Widgets2/Explore_Property.php:174
+#: ../includes/Elementor/Widgets2/Home_Banner.php:182
+#: ../includes/Elementor/Widgets2/Widget_Map.php:68
+#: ../includes/Widgets/Resido_Listing_Search.php:86
+#: ../includes/Widgets/Resido_Listing_Search.php:315
+msgid "Property Status"
+msgstr "Estatus de la propiedad"
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:134
+#: ../includes/Elementor/Widgets2/Advance_Search.php:134 ../shortcode.php:267
+msgid "Property Type"
+msgstr "Tipo de propiedad"
+
+#: ../includes/Widgets/Resido_Listing_Search.php:80
+#: ../includes/Widgets/Resido_Listing_Search.php:251
+msgid "Property Types"
+msgstr "Tipo de Propiedades"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:310
+msgid "Quick Start"
+msgstr "Inicio Rápido"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:111
+msgid "Radio"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:205
+msgid "Radio Item"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Blog_Post.php:125
+#: ../includes/Elementor/Widgets/Explore_Agents.php:84
+#: ../includes/Elementor/Widgets/Explore_Property.php:205
+#: ../includes/Elementor/Widgets/Home_Banner.php:212
+#: ../includes/Elementor/Widgets/Widget_Map.php:103
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:84
+#: ../includes/Elementor/Widgets2/Explore_Property.php:202
+#: ../includes/Elementor/Widgets2/Home_Banner.php:210
+#: ../includes/Elementor/Widgets2/Widget_Map.php:96
+msgid "Random"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:103
+msgid "Rating"
+msgstr "Calificación"
+
+#: ../includes/Widgets/Recent_Posts.php:46
+msgid "Recent Posts"
+msgstr "Publicaciones recientes"
+
+#: ../includes/Posttype/Pricing.php:102
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: ../shortcode.php:404
+msgid "Registration"
+msgstr "Registro"
+
+#: ../includes/Sidebar_Generator.php:224
+msgid "Remove"
+msgstr "Eliminar"
+
+#: ../includes/Sidebar_Generator.php:237
+msgid "remove"
+msgstr "Eliminar"
+
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:139
+msgid "Remove Arrow"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Achievement.php:111
+#: ../includes/Elementor/Widgets/Download_App.php:149
+#: ../includes/Elementor/Widgets/Property_Location.php:143
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:132
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:172
+#: ../includes/Elementor/Widgets2/Property_Location.php:149
+msgid "Repeater List"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:227
+msgid "Required"
+msgstr "Requerido"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:363
+msgid "Reset"
+msgstr "Borrar"
+
+#: ../shortcode.php:364
+msgid "Reset YOUR PASSWORD"
+msgstr "Borrar su contraseña"
+
+#: ../includes/Elementor/Element.php:45
+msgid "Resido"
+msgstr ""
+
+#: ../includes/Widgets/Resido_Calculation.php:23
+msgid "Resido Calculation Widget"
+msgstr ""
+
+#: ../includes/Widgets/Resido_Featured_Listing.php:23
+msgid "Resido Featured Property"
+msgstr ""
+
+#: ../includes/Widgets/Resido_Listing_Search.php:24
+msgid "Resido Listing Search"
+msgstr ""
+
+#: ../includes/Widgets/Recent_Posts.php:22
+msgid "Resido Recent Posts"
+msgstr ""
+
+#: ../includes/Widgets/Service_Sidebar_Menu.php:33
+msgid "Resido Service Menu"
+msgstr ""
+
+#: ../includes/Widgets/Widget_Selector.php:26
+msgid "Resido Widget Selector"
+msgstr ""
+
+#: ../includes/Posttype/Agencies.php:19 ../includes/Posttype/Agents.php:21
+#: ../includes/Posttype/Pricing.php:19
+msgctxt "resido-core"
+msgid "Add New"
+msgstr "Agregar nuevo"
+
+#: ../includes/Posttype/Agencies.php:29
+msgctxt "resido-core"
+msgid "Agencies"
+msgstr ""
+
+#: ../includes/Posttype/Agents.php:31
+msgctxt "resido-core"
+msgid "Agents"
+msgstr ""
+
+#: ../includes/Posttype/Pricing.php:29
+msgctxt "resido-core"
+msgid "Pricing Plan"
+msgstr "Planes"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:279
+msgid "Resources"
+msgstr ""
+
+#: ../includes/Widgets/Resido_Calculation.php:123
+msgid "Result"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:130
+msgid "Reverse the order of the trail"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:141
+msgid "Rows"
+msgstr ""
+
+#: ../includes/Widgets/Resido_Calculation.php:204
+msgid "Sale Price:"
+msgstr "Precio de venta:"
+
+#: ../resido-core.php:539 ../resido-core.php:545
+msgid "Save"
+msgstr "Guardar"
+
+#: ../resido-core.php:543
+msgid "Saved"
+msgstr "Guardado"
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:121
+msgid "Schema.org BreadcrumbList (microdata)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:120
+msgid "Schema.org BreadcrumbList (RDFa)"
+msgstr ""
+
+#: ../includes/Subscriptionlist.php:166
+#: ../includes/Widgets/Resido_Listing_Search.php:505 ../shortcode.php:148
+#: ../shortcode.php:209
+msgid "Search"
+msgstr "Buscar"
+
+#: ../includes/Posttype/Agencies.php:25
+msgid "Search Agencies"
+msgstr ""
+
+#: ../includes/Posttype/Agents.php:27
+msgid "Search Agents"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:75
+#: ../includes/Elementor/Widgets2/Advance_Search.php:75
+msgid "Search for a location"
+msgstr "Buscar por Ubicación"
+
+#: ../shortcode.php:77 ../shortcode.php:202
+msgid "Search for a Property"
+msgstr "Buscar una Propiedad"
+
+#: ../includes/Elementor/Widgets/Home_Banner.php:167
+#: ../includes/Elementor/Widgets2/Home_Banner.php:165
+msgid "Search Form"
+msgstr "Buscar Formato"
+
+#: ../includes/Widgets/Resido_Listing_Search.php:59
+msgid "Search placeholder"
+msgstr ""
+
+#: ../includes/Posttype/Pricing.php:25
+msgid "Search Pricing Plan"
+msgstr "Buscar planes"
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:418
+#: ../includes/Elementor/Widgets2/Advance_Search.php:417 ../shortcode.php:330
+msgid "Search Result"
+msgstr "Buscar Resultados"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:707
+msgid "Search Template"
+msgstr "Buscar Plantilla"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:708
+msgid "Search Template (Unlinked)"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:64
+#: ../includes/Elementor/Widgets/Advance_Search.php:119
+#: ../includes/Elementor/Widgets2/Advance_Search.php:64
+#: ../includes/Elementor/Widgets2/Advance_Search.php:119
+msgid "Select"
+msgstr "Seleccionar"
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:864
+msgid "Select a XML settings file to upload and import settings from."
+msgstr ""
+
+#: ../includes/Admin/Metabox/Metabox.php:98
+#: ../includes/Admin/Metabox/Metabox.php:133 ../includes/Posttype/Agents.php:94
+#: ../template-hooks.php:308 ../template-hooks.php:372
+msgid "Select Agency"
+msgstr "Seleccionar Agencia"
+
+#: ../includes/Admin/Metabox/Metabox.php:108
+#: ../includes/Admin/Metabox/Metabox.php:149 ../template-hooks.php:321
+#: ../template-hooks.php:390
+msgid "Select Agent"
+msgstr "Seleccionar Agente"
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:338
+#: ../includes/Elementor/Widgets2/Advance_Search.php:339
+msgid "Select Beds"
+msgstr "Seleccionar Habitaciones"
+
+#: ../includes/Elementor/Widgets/Widget_Map.php:278
+#: ../includes/Elementor/Widgets2/Widget_Map.php:279 ../shortcode.php:100
+#: ../shortcode.php:101 ../shortcode.php:268 ../shortcode.php:269
+msgid "Select Category"
+msgstr "Seleccionar tipo de Inmueble"
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:334
+#: ../includes/Elementor/Widgets2/Advance_Search.php:335
+msgid "Select Features"
+msgstr "Seleccionar Características"
+
+#: ../includes/Widgets/Service_Sidebar_Menu.php:123
+msgid "Select Menu:"
+msgstr "Seleccionar Menú"
+
+#: ../includes/Widgets/Widget_Selector.php:75
+msgid "Select Template"
+msgstr "Seleccionar Plantilla"
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:326
+#: ../includes/Elementor/Widgets/Advance_Search.php:330
+#: ../includes/Elementor/Widgets2/Advance_Search.php:327
+#: ../includes/Elementor/Widgets2/Advance_Search.php:331
+msgid "Select Type"
+msgstr "Seleccionar Tipo"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:277
+#: ../includes/Elementor/Widgets/Contact_Form.php:302
+#: ../includes/Elementor/Widgets/Contact_Form.php:313
+msgid "Separate emails with commas"
+msgstr ""
+
+#: ../includes/Posttype/Pricing.php:120
+msgid "Set Expire Date"
+msgstr "Fijar fecha de vencimiento"
+
+#: ../template-hooks.php:88
+msgid "Set Expired by Admin"
+msgstr "Vencimiento fijado por el administrador"
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:241
+msgid "Settings"
+msgstr "Ajustes"
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:546
+msgid "Settings did not change, nothing to save."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:861
+msgid "Settings File"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:659
+msgid "Settings successfully imported from the uploaded file."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:746
+msgid "Settings successfully migrated."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:686
+msgid "Settings successfully reset to the default values."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:541
+msgid "Settings successfully saved."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:708
+msgid "Settings successfully undid the last operation."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:548
+msgid "Settings were not saved."
+msgstr ""
+
+#: ../resido-core.php:512
+msgid "Share"
+msgstr "Compartir"
+
+#: ../includes/Elementor/Widgets/Property_Location.php:154
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:142
+#: ../includes/Elementor/Widgets2/Property_Location.php:160
+msgid "Show"
+msgstr "Mostrar"
+
+#: ../includes/Admin/Metabox/Metabox.php:59
+msgid "Show breadcrumb"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:581
+#, php-format
+msgid ""
+"Show the breadcrumb for the %s post type archives in the breadcrumb trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:582
+#, php-format
+msgid ""
+"Show the hierarchy (specified below) leading to a %s in the breadcrumb trail."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:495
+msgid ""
+"Show the hierarchy (specified below) leading to a post in the breadcrumb "
+"trail."
+msgstr ""
+
+#: ../includes/Sidebar_Generator.php:215
+msgid "Sidebar Generator"
+msgstr ""
+
+#: ../page-option/page-option.php:71 ../page-option/page-option.php:121
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../shortcode.php:346
+msgid "Sign"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Explore_Property.php:92
+#: ../includes/Elementor/Widgets2/Explore_Property.php:89
+msgid "Slider"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Home_Banner.php:178
+#: ../includes/Elementor/Widgets2/Home_Banner.php:176
+msgid "Slides"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:22
+msgid "Smart Testimonials"
+msgstr ""
+
+#: ../includes/Posttype/Agencies.php:97 ../includes/Posttype/Agents.php:107
+msgid "Social Information"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:552
+msgid "Some settings were not saved."
+msgstr ""
+
+#: ../agency/agency.php:308 ../agency/single-agent.php:252
+#: ../includes/Elementor/Widgets2/Home_Banner.php:533
+#: ../includes/Elementor/Widgets2/Template/grid_layout.php:106
+#: ../includes/Elementor/Widgets2/Template/list_layout.php:113
+msgid "sqft"
+msgstr "Mts2"
+
+#: ../includes/Subscriptionlist.php:207
+msgid "Start Date"
+msgstr "Fecha de Inicio"
+
+#: ../includes/Subscriptionlist.php:131
+msgid "Start Date:"
+msgstr "Fecha de Inicio:"
+
+#: ../includes/Elementor/Widgets/Property_Location.php:94
+#: ../includes/Elementor/Widgets/Property_Location.php:105
+#: ../includes/Elementor/Widgets2/Property_Location.php:94
+#: ../includes/Elementor/Widgets2/Property_Location.php:105
+#: ../resido-core.php:379
+msgid "State"
+msgstr "Departamento"
+
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:19
+msgid "Step How to Use"
+msgstr "Como usar"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:326
+msgid "Styling"
+msgstr "Estilo"
+
+#: ../includes/Elementor/Widgets/Download_App.php:114
+msgid "Sub text"
+msgstr "Sub texto"
+
+#: ../includes/Admin/Redux/Redux.php:143 ../includes/Admin/Redux/Redux.php:180
+#: ../includes/Admin/Redux/Redux.php:205 ../redux.php:69 ../redux.php:106
+#: ../redux.php:131
+msgid "Sub Title"
+msgstr "Sub Título"
+
+#: ../includes/Widgets/Resido_Calculation.php:200
+msgid "Sub Title:"
+msgstr "SubTíluto:"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:287
+msgid "Subject"
+msgstr "Asunto"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:377
+msgid "Submit Button"
+msgstr "Botón enviar"
+
+#: ../resido-core.php:614
+msgid "Subscribe Package to add listing."
+msgstr ""
+
+#: ../resido-core.php:448 ../resido-core.php:449
+msgid "Subscription"
+msgstr "Suscripción"
+
+#: ../includes/functions.php:196 ../includes/functions.php:253
+#: ../includes/functions.php:310
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:637
+msgid "Tag Template"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:638
+msgid "Tag Template (Unlinked)"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:507
+#: ../breadcrumb-navxt/class.bcn_admin.php:634
+msgid "Tags"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:626
+msgid "Taxonomies"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:106
+msgid "Tel"
+msgstr ""
+
+#: ../includes/mb-term-meta/inc/class-mb-term-meta-box.php:97
+msgid "Term added."
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:102
+msgid "Text"
+msgstr "Texto"
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:113
+msgid "Text to show before the trail:"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:104
+msgid "Textarea"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:708
+msgid ""
+"The anchor template for search breadcrumbs, used only when the search "
+"results span several pages and the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:707
+msgid ""
+"The anchor template for search breadcrumbs, used only when the search "
+"results span several pages."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:556
+msgid "The following settings were not saved:"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:610
+msgid "The hierarchy which the breadcrumb trail will show."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:522
+#: ../breadcrumb-navxt/class.bcn_admin.php:612
+msgid ""
+"The hierarchy which the breadcrumb trail will show. Note that the \"Post "
+"Parent\" option may require an additional plugin to behave as expected since "
+"this is a non-hierarchical post type."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_rest_controller.php:117
+msgid "The ID of the author to retrieve the breadcrumb trail for."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_rest_controller.php:74
+msgid "The ID of the post (any type) to retrieve the breadcrumb trail for."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_rest_controller.php:93
+msgid "The ID of the term to retrieve the breadcrumb trail for."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:489
+msgid ""
+"The settings for all post types (Posts, Pages, and Custom Post Types) are "
+"located under this tab."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:626
+msgid ""
+"The settings for all taxonomies (including Categories, Tags, and custom "
+"taxonomies) are located under this tab."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:673
+msgid ""
+"The settings for author and date archives, searches, and 404 pages are "
+"located under this tab."
+msgstr ""
+
+#: ../includes/Sidebar_Generator.php:216
+msgid ""
+"The sidebar name is for your use only. It will not be visible to any of your "
+"visitors. A CSS class is assigned to each of your sidebar, use this styling "
+"to customize the sidebars."
+msgstr ""
+
+#: ../resido-core.php:467
+msgid "The specified ID does not belong to a payment. Please try again"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_rest_controller.php:99
+msgid "The taxonomy of the term to retrieve the breadcrumb trail for."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:558
+#: ../breadcrumb-navxt/class.bcn_admin.php:663
+#, php-format
+msgid ""
+"The template for %s breadcrumbs, used only when the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:557
+#: ../breadcrumb-navxt/class.bcn_admin.php:662
+#, php-format
+msgid "The template for %s breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:710
+msgid "The template for 404 breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:540
+msgid ""
+"The template for attachment breadcrumbs, used only when the breadcrumb is "
+"not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:539
+msgid "The template for attachment breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:678
+msgid ""
+"The template for author breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:677
+msgid "The template for author breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:631
+msgid ""
+"The template for category breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:630
+msgid "The template for category breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:706
+msgid ""
+"The template for date breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:705
+msgid "The template for date breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:530
+msgid ""
+"The template for page breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:529
+msgid "The template for page breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:457
+msgid "The template for paged breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:494
+msgid ""
+"The template for post breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:493
+msgid "The template for post breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:644
+msgid "The template for post format breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:645
+msgid ""
+"The template for post_format breadcrumbs, used only when the breadcrumb is "
+"not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:638
+msgid ""
+"The template for tag breadcrumbs, used only when the breadcrumb is not "
+"linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:637
+msgid "The template for tag breadcrumbs."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:466
+msgid ""
+"The template for the home breadcrumb, used when the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:465
+msgid "The template for the home breadcrumb."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:482
+msgid ""
+"The template for the main site home breadcrumb, used only in multisite "
+"environments and when the breadcrumb is not linked."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:481
+msgid ""
+"The template for the main site home breadcrumb, used only in multisite "
+"environments."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:278
+msgid "Tips for the settings are located below select options."
+msgstr ""
+
+#: ../includes/Admin/Redux/Redux.php:134
+#: ../includes/Elementor/Widgets/Achievement.php:53
+#: ../includes/Elementor/Widgets/Achievement.php:92
+#: ../includes/Elementor/Widgets/Blog_Post.php:78
+#: ../includes/Elementor/Widgets/Blog_Post.php:123
+#: ../includes/Elementor/Widgets/Call_To_Action.php:66
+#: ../includes/Elementor/Widgets/Download_App.php:68
+#: ../includes/Elementor/Widgets/Explore_Agents.php:45
+#: ../includes/Elementor/Widgets/Explore_Agents.php:82
+#: ../includes/Elementor/Widgets/Explore_Property.php:67
+#: ../includes/Elementor/Widgets/Explore_Property.php:203
+#: ../includes/Elementor/Widgets/Home_Banner.php:71
+#: ../includes/Elementor/Widgets/Home_Banner.php:210
+#: ../includes/Elementor/Widgets/Price_Table.php:53
+#: ../includes/Elementor/Widgets/Property_Location.php:65
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:59
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:49
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:151
+#: ../includes/Elementor/Widgets/Widget_Map.php:101
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:45
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:82
+#: ../includes/Elementor/Widgets2/Explore_Property.php:67
+#: ../includes/Elementor/Widgets2/Explore_Property.php:200
+#: ../includes/Elementor/Widgets2/Home_Banner.php:69
+#: ../includes/Elementor/Widgets2/Home_Banner.php:208
+#: ../includes/Elementor/Widgets2/Price_Table.php:46
+#: ../includes/Elementor/Widgets2/Property_Location.php:65
+#: ../includes/Elementor/Widgets2/Widget_Map.php:94
+#: ../includes/Widgets/Resido_Listing_Search.php:56
+#: ../includes/functions.php:245 ../redux.php:60
+msgid "Title"
+msgstr "Título"
+
+#: ../includes/Elementor/Widgets/Achievement.php:116
+#: ../includes/Elementor/Widgets/Download_App.php:154
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:137
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:177
+msgid "Title #1"
+msgstr "Título #1"
+
+#: ../includes/Elementor/Widgets/Achievement.php:119
+#: ../includes/Elementor/Widgets/Download_App.php:158
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:140
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:181
+msgid "Title #2"
+msgstr "Título #2"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:717
+msgid "Title Length"
+msgstr ""
+
+#: ../includes/Admin/Redux/Redux.php:41
+msgid "Title Top"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_widget.php:109
+#: ../includes/Widgets/Recent_Posts.php:149
+#: ../includes/Widgets/Resido_Calculation.php:196
+#: ../includes/Widgets/Resido_Featured_Listing.php:174
+#: ../includes/Widgets/Service_Sidebar_Menu.php:119
+msgid "Title:"
+msgstr "Título:"
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:272
+msgid "To"
+msgstr "Para"
+
+#: ../resido-core.php:382
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:60
+#: ../includes/Elementor/Widgets2/Advance_Search.php:60
+msgid "Type"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:130
+msgid "Type 1"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:131
+msgid "Type 2"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:164
+msgid "Type your description here"
+msgstr "escriba su descripción aquí"
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:244
+#: ../includes/Elementor/Widgets/Advance_Search.php:265
+#: ../includes/Elementor/Widgets/Home_Banner.php:244
+#: ../includes/Elementor/Widgets2/Advance_Search.php:244
+#: ../includes/Elementor/Widgets2/Advance_Search.php:265
+#: ../includes/Elementor/Widgets2/Home_Banner.php:242
+#: ../includes/functions.php:217 ../includes/functions.php:274
+#: ../includes/functions.php:331
+msgid "Typography"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Achievement.php:136
+#: ../includes/Elementor/Widgets/Smart_Testimonials.php:157
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:199
+msgid "Typography Section"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:542
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:553
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:660
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:687
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:709
+msgid "Undo"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:709
+msgid "Undo the last undo operation."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:660
+msgid "Undo the options import."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:687
+msgid "Undo the options reset."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:542
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:553
+msgid "Undo the options save."
+msgstr ""
+
+#: ../shortcode.php:346
+msgid "Up"
+msgstr ""
+
+#: ../includes/Elementor/Widgets/Contact_Form.php:105
+msgid "URL"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:583
+#, php-format
+msgid ""
+"Use the parent of the %s as the primary hierarchy, falling back to the "
+"hierarchy selected below when the parent hierarchy is exhausted."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:496
+msgid ""
+"Use the parent of the post as the primary hierarchy, falling back to the "
+"hierarchy selected below when the parent hierarchy is exhausted."
+msgstr ""
+
+#: ../shortcode.php:368
+msgid "Username or E-mail:"
+msgstr "Nombre de usuario o correo"
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:314
+msgid ""
+"Using the code from the Quick Start section above, the following CSS can be "
+"used as base for styling your breadcrumb trail."
+msgstr ""
+
+#: ../template-hooks.php:37 ../template-hooks.php:71
+msgid "Verified"
+msgstr "Verificado"
+
+#: ../template-hooks.php:75
+msgid "Verify"
+msgstr "Verificar"
+
+#: ../agency/agencies.php:85 ../agency/agency.php:192 ../agency/agency.php:321
+#: ../agency/archive-agent.php:89 ../agency/single-agent.php:266
+#: ../includes/Elementor/Widgets/Explore_Agents.php:275
+#: ../includes/Elementor/Widgets/Template/grid_layout.php:133
+#: ../includes/Elementor/Widgets/Template/list_layout.php:130
+#: ../includes/Elementor/Widgets2/Explore_Agents.php:276
+#: ../includes/Elementor/Widgets2/Template/grid_layout.php:122
+#: ../includes/Elementor/Widgets2/Template/list_layout.php:128
+#: ../resido-core.php:506
+msgid "View"
+msgstr "Ver"
+
+#: ../includes/Posttype/Agencies.php:24
+msgid "View Agencies"
+msgstr "Ver Agencias"
+
+#: ../includes/Posttype/Agents.php:26
+msgid "View Agents"
+msgstr "Ver Agencias"
+
+#: ../includes/Elementor/Widgets/Home_Banner.php:562
+#: ../includes/Elementor/Widgets2/Home_Banner.php:565
+msgid "View Details"
+msgstr "Ver Detalles"
+
+#: ../includes/Posttype/Pricing.php:24
+msgid "View Pricing Plan"
+msgstr "Ver Plan de Precios"
+
+#: ../includes/Widgets/Resido_Calculation.php:53
+msgid "View your Interest Rate"
+msgstr "Ver su tasa de Interes"
+
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:144
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:146
+msgid ""
+"Warning: Individual site settings may override any settings set in this page."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:141
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:151
+msgid ""
+"Warning: Individual site settings will override any settings set in this "
+"page."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:385
+#: ../breadcrumb-navxt/class.bcn_network_admin.php:150
+msgid ""
+"Warning: No BCN_SETTINGS_* define statement found, defaulting to "
+"BCN_SETTINGS_USE_LOCAL."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:396
+#, php-format
+msgid ""
+"Warning: Your are using a deprecated setting \"Title Length\" (see "
+"Miscellaneous &gt; Deprecated), please %1$suse CSS instead%2$s."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:379
+#: ../breadcrumb-navxt/class.bcn_admin.php:381
+msgid ""
+"Warning: Your network settings may override any settings set in this page."
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:377
+msgid ""
+"Warning: Your network settings will override any settings set in this page."
+msgstr ""
+
+#: ../includes/Hooks.php:36
+msgid "We Are Social On:"
+msgstr "Nuestras Redes Sociales:"
+
+#: ../includes/Widgets/Resido_Listing_Search.php:187
+msgid "Where"
+msgstr "Donde"
+
+#: ../includes/Elementor/Widgets/Advance_Search.php:40
+#: ../includes/Elementor/Widgets/Step_How_To_Use.php:104
+#: ../includes/Elementor/Widgets2/Advance_Search.php:40
+msgid "Width"
+msgstr "Ancho"
+
+#: ../breadcrumb-navxt/class.bcn_breadcrumb_trail.php:616
+msgctxt "year archive breadcrumb date format"
+msgid "Y"
+msgstr ""
+
+#: ../breadcrumb-navxt/class.bcn_admin.php:455
+#: ../includes/Elementor/Widgets/Explore_Property.php:104
+#: ../includes/Elementor/Widgets/Explore_Property.php:116
+#: ../includes/Elementor/Widgets2/Explore_Property.php:101
+#: ../includes/Elementor/Widgets2/Explore_Property.php:113
+msgid "Yes"
+msgstr "Si"
+
+#: ../includes/Elementor/Widgets2/Widget_Map.php:224
+msgid "You are within {{radius_value}} meters from this point"
+msgstr "Usted está a {{radius_value}} metros de este punto"
+
+#: ../resido-core.php:599
+msgid "Your package limit is over."
+msgstr "Su paquete contratado está lleno"
+
+#: ../breadcrumb-navxt/breadcrumb-navxt.php:8
+#: ../breadcrumb-navxt/class.bcn_admin.php:25
+#: ../breadcrumb-navxt/class.bcn_rest_controller.php:24
+#, php-format
+msgid ""
+"Your PHP version is too old, please upgrade to a newer version. Your version "
+"is %1$s, Breadcrumb NavXT requires %2$s"
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:337
+msgid "Your plugin install is incomplete."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:327
+msgid "Your settings are for a newer version of this plugin."
+msgstr ""
+
+#: ../breadcrumb-navxt/includes/class.mtekk_adminkit.php:315
+msgid ""
+"Your settings are for an older version of this plugin and need to be "
+"migrated."
+msgstr ""
+
+#: ../resido-core.php:380
+msgid "Zip"
+msgstr "Código postal"

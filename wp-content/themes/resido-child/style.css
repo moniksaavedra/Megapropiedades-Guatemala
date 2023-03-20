@@ -1,0 +1,50 @@
+/*
+Theme Name: Resido Child
+Template: resido
+Theme URI: hhttps://resido-v2.smartdemowp.com/
+Author: SmartDataSoft
+Author URI: http://smartdatasoft.com
+Description: Resido is a smart business listing & directory WordPress theme with a modern admin dashboard that will help you create a local or global directory site. This theme mainly focused on Local Business Directory, Online Business Directory, Local Listing, and all kind of Directory Services. Resido theme is also suitable for all kinds of directory services like Local service finders, Hotel, Restaurant Spa and massage center, Real estate, and all kinds of properties and more.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+*/
+
+/* ----------------------------------------------------------------------------
+ * Child Theme Style.css styles begin here!
+ * ------------------------------------------------------------------------- */
+
+
+.blue_listing .property-listing{
+    border: 2px solid blue;
+}
+.orange_listing .property-listing{
+    border: 2px solid orange;
+}
+span._list_blickes.types,
+span.package-badge {
+    background-color: #f3f3f3;
+    padding: 2px 6px;
+    border-radius: 3px;
+}
+.orange_listing span.package-badge {
+    background-color: orange;
+    color: rgba(255,255,255,.8);
+}
+.blue_listing span.package-badge {
+    background-color: blue;
+    color: rgba(255,255,255,.8);
+}
+.woocommerce #payment .form-row select, .woocommerce-page #payment .form-row select {
+    padding: 0 25px;
+}
+.woocommerce-checkout #payment div.payment_box input.input-text {
+    padding: 10px 10px;
+}
+
+.has_purchased {
+    font-size: 20px;
+    float: right;
+    color: red;
+}
